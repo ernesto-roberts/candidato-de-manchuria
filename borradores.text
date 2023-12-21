@@ -1,0 +1,12 @@
+<center><u>Efecto Phi</u></center>
+
+<br />
+
+<img
+  src={require('/opt/lampp/htdocs/candidato-de-manchuria/static/img/phy.gif').default}
+/> 
+
+<br /><br />
+
+
+-----------------------------------
