@@ -6,8 +6,8 @@ title: Origenes del Totalitarismo Democratico
 
 <hr />
 
-Traducciòn de la Intro de [Origins of Democtatic Totalitarism](/) (1919) <br />
-de <a href="" target="_blank" rel="noopener noreferrer">J.L.Talmon</a> (1878-1943)
+Traducciòn de la Intro de [Origins of Democtatic Totalitarism](https://archive.org/details/in.ernet.dli.2015.460216) (1952) <br />
+de <a href="https://es.wikipedia.org/wiki/Yaakov_Talm%C3%B3n" target="_blank" rel="noopener noreferrer">J.L.Talmon</a> (1916-1980)
 
 <hr />
 
@@ -18,7 +18,7 @@ Seria por supuesto una exageracion sugerir que la totalidad del periodo puede se
 
 De hecho, desde la prespectiva ya entrada en el siglo veinte, la historia de los ultimos 150 años* parece una preparacion sistematica para la colision de cabeza de entre la democracia empirica// y liberal por un lado, y la democracia totalitaria y mesianica// por otro, en la que consiste la crisis del mundo de hoy.
 
-<p class="md_footnote_size">* Este texto data de 1919</p>
+<p class="md_footnote_size">* Este texto data de 1952</p>
 
 
 ## Los dos tipos de Democracia: Liberal y Totalitaria

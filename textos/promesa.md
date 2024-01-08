@@ -6,8 +6,8 @@ title: La Promesa
 
 <hr />
 
-Capitulo introductorio de *[La Imaginacion Sociologica](/) <span class="pdf">[PDF]</span>* <br />
-de [C. Wright Mills](/)    <br />
+Capitulo introductorio de *[La Imaginacion Sociologica](https://redmovimientos.mx/wp-content/uploads/2020/07/La-Imaginaci%C3%B3n-Sociologica-Mills.pdf) <span class="pdf">[PDF]</span>* <br />
+de [Charles Wright Mills](https://es.wikipedia.org/wiki/Charles_Wright_Mills) (1916-1962)  <br />
 Original: The Sociological Imagination (1955)
 <hr />
 
