@@ -6,13 +6,13 @@ slug: /category/los-maquiavelicos-1943--james-burnham
 # Mosca: La Tradición Maquiavelica
 
 
-<hr />
+ <hr style={{  marginTop: '3em' }} />
 
 <p class="md_footnote_size">
 Traducción paracial de <a href="https://archive.org/details/in.ernet.dli.2015.247666" target="_blank" rel="noopener noreferrer">The Machiavellians</a> (1943) de <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> (1905-1987) <br />
 </p>
 
-<hr />
+ <hr style={{  marginBottom: '2em' }} />
 
 
 

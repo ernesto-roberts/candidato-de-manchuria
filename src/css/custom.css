@@ -287,7 +287,6 @@ flex-direction: column;
 
 #__docusaurus_skipToContent_fallback > div > div > aside > nav > ul > li {
   padding-right: .5em;
-
 }
 
 
@@ -301,6 +300,10 @@ img {
   margin-right: auto;
   width: 40%;
   border: 3px solid black;
+}
+
+#__docusaurus_skipToContent_fallback > div > div > aside > nav > div {
+  text-align:justify;
 }
 
 

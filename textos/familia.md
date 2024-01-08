@@ -1,5 +1,5 @@
 ---
-date: 2023-12-24T10:00
+date: 2023-11-18T10:00
 title: La Muerte de la Familia
 slug: familia
 ---

@@ -1,5 +1,5 @@
 ---
-date: 2023-12-29T10:00
+date: 2023-12-26T10:00
 slug: paralela
 title: La Administración Paralela
 ---
@@ -18,7 +18,7 @@ Del [Dr. Agustín Gordillo](http://gordillo.com)
 
 ## 1. La Indefensión del Administrado frente a la Administración.
 
-La indefensión del administrado frente a la administración asume a veces formas
+La indefensión del [el administrado frente a la adminstracion](https://somosdelprieto.com/rea/administracion/gdje/U7/la_relacin_administracinadministrado.html) asume a veces formas
 insospechadas en el plano teórico, pero dotadas de suficiente realidad en el plano
 práctico como para merecer algún comentario. 
 
@@ -42,18 +42,18 @@ de él, aunque su legajo no los registre.
 
 
 Ese legajo del aire a menudo funciona y
-es la explicación y la causa de ascensos o promociones, sumarios y prescindibilidades. Tampoco el agente público tiene defensa fácil frente a tal tipo de legajo:
+es la explicación y la causa de ascensos o promociones, [sumarios](https://es.wikipedia.org/wiki/Sumario_(derecho)) y prescindibilidades. Tampoco el agente público tiene defensa fácil frente a tal tipo de legajo:
 Funcionario y administrado se encuentran así a veces hermanados en una común
 indefensión.
 
 ## 2. Los Valores Constitucionales Violados por Normas Inferiores
 
 Lo expuesto anteriormente es sólo la punta del iceberg. En efecto, existen múltiples
-y fundamentales valores del sistema constitucional, tales como razonabilidad,
-proporcionalidad, buena fe, etc, que por su rango normativo son superiores a
-todo el resto del ordenamiento jurídico y en una adecuada interpretación deben
-privar sobre las normas inferiores que se aparten de ellos una norma legislativa o reglamentaria irrazonable, disvaliosa, desviada, persecutoria, etc, es así
-inconstitucional y como tal debe ser anulada o inaplicada en los casos ocurrentes.
+y fundamentales valores del sistema constitucional, tales como [razonabilidad](https://es.wikipedia.org/wiki/Principio_de_razonabilidad),
+[proporcionalidad](https://es.wikipedia.org/wiki/Principio_de_proporcionalidad), buena fe, etc, que por su rango normativo son superiores a
+todo el resto del [ordenamiento juridico](https://es.wikipedia.org/wiki/Ordenamiento_jur%C3%ADdico) y en una adecuada interpretación deben
+privar sobre las [normas inferiores](https://www.unir.net/derecho/revista/jerarquia-normativa/) que se aparten de ellos una norma legislativa o reglamentaria irrazonable, disvaliosa, desviada, persecutoria, etc, es así
+[inconstitucional](https://es.wikipedia.org/wiki/Recurso_de_inconstitucionalidad) y como tal debe ser anulada o inaplicada en los casos ocurrentes.
 
 
 Interpretando el principio de razonabilidad con el alcance que corresponde 
@@ -66,19 +66,19 @@ dosis eventual de irracionalidad inconstitucional.
 Con todo, ocurre que conforme a la opinión dominante, cuando el órgano ad-
 ministrativo se encuentra frente a una ley inconstitucional —por ejemplo, por
 contrariar tales supremos valores constitucionales—, él no puede apartarse del
-precepto disvalioso, sino que debe en todo caso plantear o promover su derogación,
+precepto disvalioso, sino que debe en todo caso plantear o promover su [derogación](https://es.wikipedia.org/wiki/Derogaci%C3%B3n),
 y mientras tanto debe cumplirlo conviene advertir, por lo más, que tampoco
 existe en nuestro sistema constitucional un mecanismo para declarar judicialmente la inconstitucionalidad de una ley con carácter general; que además los
-jueces entienden que no pueden pronunciarla de oficio, etc, y resulta de ello que
+jueces entienden que no pueden pronunciarla [de oficio](https://es.wikipedia.org/wiki/De_oficio), etc, y resulta de ello que
 en la práctica se pretende cumplir la ley inconstitucional con toda normalidad
 durante muchos años, hasta que eventualmente el congreso la derogue. 
 
 En la vida diaria se toma como formalmente vigente la norma de rango inferior, a despecho
 de los valores constitucionales que pueda estar lesionando, a pesar pues de ser
-inconstitucional y por lo tanto intrínsecamente antijurídica.
+inconstitucional y por lo tanto intrínsecamente [antijurídica](https://es.wikipedia.org/wiki/Antijuridicidad).
 
 Algo parecido ocurre con los reglamentos: difícilmente una autoridad administrativa inferior se considerará con competencia para apartarse en un caso
-concreto de un reglamento que repute ilegal o inconstitucional, y la consecuencia
+concreto de un reglamento que repute ilegal o [inconstitucional](https://es.wikipedia.org/wiki/Recurso_de_inconstitucionalidad), y la consecuencia
 será también que el reglamento se considerará formalmente vigente y se entenderá
 que debe ser cumplido no obstante su ilegalidad o inconstitucionalidad.
 
@@ -105,9 +105,8 @@ meramente lo humanamente imposible e irrealizable, por tanto lo que sólo puede
 quiméricamente ser “*deseable*” pero no el plano de las reales conductas humanas.
 
 
-Relataba BIELSA que un constitucionalista brasileño, al ser consultado sobre
-qué reformas propondría a la constitución, propuso la siguiente: “artigo único:
-Tudo brasileiro fica obrigado a ter verghona.” Se resume allí, por una parte, la
+Relataba [Rafael Bielsa](https://es.wikipedia.org/wiki/Rafael_Bielsa_(jurista)) (1889-1966) que un constitucionalista brasileño, al ser consultado sobre
+qué reformas propondría a la constitución, propuso la siguiente: “*[artigo único: Tudo brasileiro fica obrigado a ter verghona](https://balaiocaotico.com/2021/01/02/artigo-1o-todo-brasileiro-deve-ter-vergonha-na-cara/)*” Se resume allí, por una parte, la
 irrealidad de querer todo llevarlo a una norma escrita, y por la otra, que la clave
 del buen funcionamiento de un sistema está no tanto en su texto como en los
 valores con los cuales los ciudadanos efectivamente se comporten, y que de nada
@@ -122,7 +121,7 @@ del sistema creado en infracción a tales normas superiores. Pues la sociedad pe
 siente frente al mismo el debido respeto y acatamiento que son las bases mismas
 del funcionamiento del orden jurídico.
 
-Ahora bien, de allí no nace una precisa y puntual reticencia a cumplir cabalmente las normas inconstitucionales, en sólo aquello que tengan de específicamente disvalioso y antijurídico, sino que surge una genérica actitud de falta de
+Ahora bien, de allí no nace una precisa y puntual reticencia a cumplir cabalmente las normas [inconstitucionales](https://es.wikipedia.org/wiki/Recurso_de_inconstitucionalidad), en sólo aquello que tengan de específicamente [diavalioso](https://twitter.com/RAEinforma/status/960487663081066496) y [antijurídica](https://es.wikipedia.org/wiki/Antijuridicidad), sino que surge una genérica actitud de falta de
 suficiente respeto intrínseco al orden jurídico, al derecho mismo. No se puede
 pedir al común de la gente que discierna claramente que lo que ve disvalioso no
 es en verdad derecho sino antijuricidad, una infracción al sistema jurídico constitucional; lo que ocurre entonces es que todo el sistema normativo pierde prestigio
@@ -135,7 +134,7 @@ oportuna del mecanismo institucional.
 
 
 Dado que la sociedad en su conjunto no hace finos análisis jurídicos que discriminen qué normas vigentes son inconstitucionales por irreales e irrazonables,
-ni tampoco lo hacen a tiempo los órganos del estado, el resultado es que la sociedad no cumple cabalmente el sistema disvalioso, pero no lo hace meramente
+ni tampoco lo hacen a tiempo los órganos del estado, el resultado es que la sociedad no cumple cabalmente el sistema [diavalioso](https://twitter.com/RAEinforma/status/960487663081066496), pero no lo hace meramente
 rebelándose contra las normas disvaliosas, sino contra todo el conjunto, incluido
 a veces también lo valioso. de ese incumplimiento y desobediencia más o menos
 generalizada al orden jurídico formal surgen entonces pautas de conducta, principios de organización, normas de procedimiento, etc., que son todo un verdadero
@@ -148,7 +147,7 @@ del problema, y también acerca de los posibles mecanismos para solucionarlo.
 de eso se trata en esta obra, en la cual intentaremos describir clínica y descarnadamente cada parte del problema según lo percibe el común del la gente,
 no según lo percibimos y lo valoramos nosotros. Va de suyo que en cuanto juristas nuestra aspiración es lograr una legislación y administración elaborada
 y actuando pública y participativamente, permanentemente ajustadas al orden
-constitucional, en fiel acatamiento a los principios rectores de justicia, razonabilidad, etcétera, que provoquen entonces en los administrados el consenso,
+constitucional, en fiel acatamiento a los principios rectores de justicia, [razonabilidad](https://es.wikipedia.org/wiki/Principio_de_razonabilidad), etcétera, que provoquen entonces en los administrados el consenso,
 respeto y adhesión propios de la sociedad a la que debemos y podemos aspirar.
 Prescindiremos por ello de calificar punto por punto como valioso o disvalioso lo que vamos relatando y observando, no porque estemos de acuerdo con la escala
 de valores que cada hecho supone, sino porque pensamos que la corrección del
@@ -160,7 +159,7 @@ las soluciones que apuntamos también una propuesta irreal e impracticable, o
 disvaliosa? en el segundo supuesto, ello implica considerar valiosa la realidad
 que aquí describiremos, lo cual nadie podrá verdaderamente hacer. digámoslo
 en todo caso clara y enfáticamente: el frontal desconocimiento que describiremos
-del orden jurídico es gravemente disvalioso y debe ser corregido.
+del orden jurídico es gravemente [diavalioso](https://twitter.com/RAEinforma/status/960487663081066496) y debe ser corregido.
 
 
 ##  6. La Superación del Parasistema
@@ -202,7 +201,7 @@ en un ámbito de libertad y de crítica como el que supone la constitución naci
 ##   7. Planteamiento del Problema
 
 En muchas comunidades se generan a veces formas sociales de un derecho no
-emanado del Estado: Los juristas las podrán llamar derecho consuetudinario, e
+emanado del Estado: Los juristas las podrán llamar [derecho consuetudinario](https://es.wikipedia.org/wiki/Derecho_consuetudinario), e
 integrarlo de tal modo al resto del aparato jurídico del Estado, y ese será siempre el enfoque válido de la cuestión; también los sociólogos podrán hablar de un
 derecho no estatal.
 
@@ -310,7 +309,7 @@ algunos problemas jurídicos y administrativos.
 
 En los países desarrollados existe generalmente, a más de toda la economía que
 funciona legalmente y en la superficie, tributa impuestos, está registrada, etc,
-una pequeña economía subterránea que no declara ni paga impuestos, no los
+una pequeña [economía subterranea](https://es.wikipedia.org/wiki/Econom%C3%ADa_sumergida) que no declara ni paga impuestos, no los
 retiene, no figura en ninguna estadística ni se vincula para nada con el sistema
 económico oficial. Por lo general se presenta en lugares bastante aislados y su
 efecto sobre la economía total del país es ínfima. 
@@ -391,7 +390,10 @@ El tema no ha pasado inadvertido para el derecho económico, y así es como
 se formulan principios conforme a los cuales en la interpretación debe tener
 primacía la realidad por sobre eventuales ficciones normativas; pero ello sólo
 ocurrirá en los casos que lleguen a pronunciamiento jurisdiccional, que no serán
-necesariamente la mayoría. Salvo esos casos relativamente aislados, “*El derecho
+necesariamente la mayoría. 
+
+
+Salvo esos casos relativamente aislados, “*El derecho
 público, por cuyo intermedio se produjo la irrupción de la avalancha reglamentaria
 generada por el intervencionismo estatal a partir de los años 30, presenta una imagen caótica, 
 falta de cualquier sistema. Hipertrofiado en algunos sectores,
@@ -431,7 +433,10 @@ a los... defraudadores... alimenta a los fiscales corruptos... obnubila a los ad
 Estas palabras de ATALIBA referidas a una enmienda efectuada hace ya algunos años en Brasil, aunque parezcan referirse a una situación extremadamente
 excepcional, apuntan sin duda al problema de cómo la colectividad percibe un
 sistema en cuya elaboración no participa ni influye, y cómo reaccionan muchos
-frente a él. En materia aduanera más de una vez se ha escuchado la pregunta de
+frente a él. 
+
+
+En materia aduanera más de una vez se ha escuchado la pregunta de
 si tales o cuales trámites y procedimientos irrazonablemente complicados, tengan
 en verdad una sencilla explicación en la idea de la parafiscalidad, y se relata
 el caso en México de que la reforma aduanera encontró su principal resistencia
@@ -477,7 +482,7 @@ entre el procedimiento administrativo en dichos países y aquel que se sigue en
 Brasil, Ecuador, México, Paraguay, etc., países en que tal legislación no existe.
 Es que en verdad la ley de procedimiento administrativo, aún hecha con el mejor
 criterio jurídico, no se cumple eficazmente sin en aquello que tiene de limitativo
-para el particular y de atribución de potestades para la administración pública en cuanto la ley introduce criterios de publicidad, razonabilidad, defensa del
+para el particular y de atribución de potestades para la administración pública en cuanto la ley introduce criterios de publicidad, [razonabilidad](https://es.wikipedia.org/wiki/Principio_de_razonabilidad), defensa del
 administrado, control de la actividad administrativa, etc., la realidad en general
 muy poco recoge de los nuevos preceptos. Resulta de ello que subsiste un proce-
 dimiento administrativo real, con reglas y principios que conocen y manejan los
@@ -703,7 +708,7 @@ Resulta claro que existen así dos cuerpos de normas “constitucionales” unas
 constitucionales y las otras inconstitucionales, pero que las que se aplican realmente son las segundas a despecho de las primeras. Al lado del sistema constitucional existe y funciona así un sistema paraconstitucional.
 
 
-Este parasistema constitucional, ¿es disvalioso para la mayoría de la ciudadanía? Si tomamos como dato ilustrativo la cantidad de gobiernos militares que han
+Este parasistema constitucional, ¿es [diavalioso](https://twitter.com/RAEinforma/status/960487663081066496) para la mayoría de la ciudadanía? Si tomamos como dato ilustrativo la cantidad de gobiernos militares que han
 aparecido y perdurado con indudable y apreciable apoyo civil inicial, si atendemos
 a la conclusión de Potash// antes citada, y si le sumamos la observación de que la
 participación —base de una democracia moderna— en verdad no es el sentimiento
@@ -976,7 +981,7 @@ más “verdaderamente” sistemática, pero que en cualquier caso introduce el 
 y la confusión en el orden jurídico como conjunto de pautas claras de conducta.
 
 
-No decimos con ello que todo el sistema es disvalioso, en modo alguno, sino
+No decimos con ello que todo el sistema es [diavalioso](https://twitter.com/RAEinforma/status/960487663081066496), en modo alguno, sino
 que los elementos disvaliosos que el sistema contiene son tal vez el sustento ético
 del origen de la aparición del parasistema. Dado ese comienzo, admitido que el
 sistema puede contener y mantener normas o principios disvaliosos, se admite

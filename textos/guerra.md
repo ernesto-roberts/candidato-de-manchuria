@@ -6,7 +6,7 @@ slug: guerra
 
 <hr />
 
-Capítulo primero de [Sobre la Guerra](https://lahaine.org/amauta/b2-img/Clausewitz%20Karl%20von%20-%20De%20la%20guerra.pdf) (1831) <br />
+Capítulo primero de [Sobre la Guerra](https://lahaine.org/amauta/b2-img/Clausewitz%20Karl%20von%20-%20De%20la%20guerra.pdf) <span class="pdf">[PDF]</span> (1831) <br />
 Por [Carl Von Clausewitz](https://es.wikipedia.org/wiki/Carl_von_Clausewitz) (1778-1830)
 
 <hr />

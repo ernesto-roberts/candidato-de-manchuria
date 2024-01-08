@@ -170,9 +170,11 @@ La «moraleja» subyacente, explicada por Keynes, es que:
 
 <blockquote><p>«todo lo que dificulta los procesos de producción dificulta también los procesos de consumo de manera infalible»</p></blockquote>
 
-Esto llevará a Keynes a oponerse radicalmente en 1931 al brutal programa elaborado por la «Comisión Económica» del Gobierno británico, tendente a «introducir la deflación haciendo que la reducción de los precios internacionales repercuta en los sueldos y salarios de Gran Bretaña»
+Esto llevará a Keynes a oponerse radicalmente en 1931 al brutal programa elaborado por la «*Comisión Económica*» del Gobierno británico, tendente a «*introducir la deflación haciendo que la reducción de los precios internacionales repercuta en los sueldos y salarios de Gran Bretaña*»
 
-La aplicación de las conclusiones de la Comisión Económica, afirma Keynes, se traduciría inmediatamente en «una reducción del poder adquisitivo de los ciudadanos británicos, en parte por la disminución de las rentas, y en parte por el paro de los trabajadores que todavía tienen un puesto de trabajo... Más allá todavía, el efecto sería disminuir los ingresos fiscales a causa de la reducción de las rentas y de las ganancias»Esta política que domina el informe es para Keynes «una política digna de la cordura de un asilo de alienados »
+La aplicación de las conclusiones de la Comisión Económica, afirma Keynes, se traduciría inmediatamente en 
+
+>«una reducción del poder adquisitivo de los ciudadanos británicos, en parte por la disminución de las rentas, y en parte por el paro de los trabajadores que todavía tienen un puesto de trabajo... Más allá todavía, el efecto sería disminuir los ingresos fiscales a causa de la reducción de las rentas y de las ganancias»Esta política que domina el informe es para Keynes «una política digna de la cordura de un asilo de alienados »
 
 y lo que recomienda él es una política vigorosa de, consumo (que combata las tendencias al ahorro) y de inversion publica (sobre todo en obras públicas) por parte de las colectividades locales (es para ellas el momento «de dar pruebas de dinamismo», dice Keynes).
 

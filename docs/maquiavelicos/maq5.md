@@ -2,116 +2,98 @@
 sidebar_position: 5
 ---
 
-# Pareto: La Circulación de las Elites
+# Pareto: Conducta Lógica y No-Lógica
 
+<p><a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> (1848-1923), en su gigantesco libro <a href="https://archive.org/stream/ParetoTheMindAndSocietyVol4TheGeneralFormOfSociety/Pareto%20-%20The%20Mind%20and%20Society%20Vol%201%3B%20Non-Logical%20Conduct#page/n10/mode/2up" target="_blank" rel="noopener noreferrer">Mente y Sociedad</a> (1916) desecha cualquier otro propósito que el de describir y correlaciónar los hechos sociales. El no esta ofreciendo programa alguno de mejoramiento social ni expresando ideal alguno sobre lo que la sociedad y el gobierno deben ser.</p>
 
-Por «<a href="https://www.britannica.com/topic/social-equilibrium" target="_blank" rel="noopener noreferrer">Equilibrium Social</a>» Pareto se refiere al estado general y la estructura de la sociedad considerada dinamicamente, en cualquier momento dado. Esto quiere decir, el termino se refiere al estado de la sociedad en tanto involucra la influenci a mutua que determina tanto lo que es en cualquier moemento dado y, al mismo tiempo, actuan para cambiar su estado y estructura. 
 
-Cuales son esas fuerzas que determinan el equilibrio social, que hacen la sociedad lo que es y provocan cambios en esta? <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> creé que las principales son estas:
+Él meramente intenta describir como es la sociedad y descubrir algunas reglas generales en términos de que sociedad opera. Lo que podría o debería hacerse con ese conocimiento una vez obtenido, es una pregunta que el no intenta responder.
 
-1. El ambiente físico -clíma, geografia, etc- es claramente muy importante, pero debido a que cambia muy poco atravez de los periodos historicos puede ser tratado como una constante y pasado por alto cuando se intenta descubrir las leyes del cambio social y su desarrollo.
+Esta restricción del problema es más extrema que en los otros maquiavelicos (también conocidos como <a href="https://es.wikipedia.org/wiki/Teor%C3%ADas_de_la_%C3%A9lite#Te%C3%B3ricos_cl%C3%A1sicos_de_la_%C3%A9lite" target="_blank" rel="noopener noreferrer">Escuela Elitista Italiana</a>). Ellos también, por supuesto, intentan describir y correlatar hechos sociales y nunca permiten que sus objetivos, ideales o programas distorsionen sus objetivas descripciones. Ellos nunca, como Dante, confunden sus deseos con la realidad.
 
-2. [Los residuos](/maquiavelicos/maq4) son muy influyentes. Estos, cree Pareto, cambian lentamente, permanecen sorprendentemente estables, especialmente dentro de cada grupo social organizado. Pero al final estos lentos cambios terminan alterando la naturaleza de la vida social. Más rápidos y más obvios en sus efectos son los cambios no en los residuos mismos, sino en la distribución de residuos en los varios estratos de la sociedad. El estudio de estos cambios en la distribución de los residuos pueden ser incorporados en la discusión del punto 5 más abajo.
+Sin embargo, ellos sí declaran cual es el orden social que consideran deseable y cuales son las condiciones para lograr tal orden social.
 
-3. Los factores economicos - que Pareto denomina "intereses" - también tiene un rol preponderante, tal como reconocen la mayoria de los sociologos e historiadores modernos. En <a href="https://archive.org/stream/ParetoTheMindAndSocietyVol4TheGeneralFormOfSociety/Pareto%20-%20The%20Mind%20and%20Society%20Vol%201%3B%20Non-Logical%20Conduct#page/n10/mode/2up" target="_blank" rel="noopener noreferrer">Mente y Sociedad</a> (1916) sin embargo, Pareto no se ocupa demasiado de ellos.
+En sus primeros escritos, particularmente aquellos sobre economía, Pareto expreso algunos fines prácticos. El defendió, por un tiempo, el punto de vista del las economías «liberales» ortodoxas. No lo que hoy en día es llamado liberalismo, esa extraña melange de confusión sentimental, sino el liberalismo clásico del libre comercio y mercados libres
 
-4. [Las derivaciones](/maquiavelicos/maq4), también tienen una cierta influenciaen el equilibrio social, pero Pareto, como hemos visto, creé que esta es menor comparado con otros factores. Estas creencias [no-lógicas](/maquiavelicos/maq3), mitos, formulas, etc, son principalmente notables como expresiones de residuos e intereses y por su capacidad indirecta de reforzar los residuos o alterar el patron de la circulación de las elites.
+El gradualmente abandono ese punto de vista. No fue remplazado por ningún otro.
 
+Sus críticos a menudo han argumentado que el descarte de Pareto de cualquier meta práctica no es más que una pretensión suya y usualmente le han atribuida tal y cual programa. Bién puede ser que pese a que ningún objetivo es explicitamente declarado en <a href="https://archive.org/stream/ParetoTheMindAndSocietyVol4TheGeneralFormOfSociety/Pareto%20-%20The%20Mind%20and%20Society%20Vol%201%3B%20Non-Logical%20Conduct#page/n10/mode/2up" target="_blank" rel="noopener noreferrer">Mente y Sociedad</a> ciertos valores y actitudes son sugeridas por el tono general de sus observaciones.
 
-5. Finalmente tenemos lo que Pareto llama «[La Circulación de las Elites»](https://gizapedia.org/circulacion-de-las-elites), el analisis de este concepto ocupara la mayor parte de esta sección.
+Sin embargo, sobre estos, nada puede ser establecido definitivamente. Ellos son en todo caso irrelevantes para mi propósito, que es mostrar lo que Pareto aporto a la tendencia principal de pensamiento maquiavelico. Todo el mundo puede discutir toda la noche sobre como salvar la sociedad, pero sólo unos pocos nos han dicho algunas verdades sobre la sociedad.
 
+##   * * *
 
-Pareto, como todo Maquiavelico, tiene una [teoría pluralista](https://es.wikipedia.org/wiki/Pluralismo_(filosof%C3%ADa)#:~:text=El%20pluralismo%20es%20la%20teor%C3%ADa,las%20unas%20con%20las%20otras.) de la historia, los cambios en la historia no resultan del impacto exclusivo de una causa única (ver <a href="https://es.wikipedia.org/wiki/Monismo" target="_blank" rel="noopener noreferrer">monismo</a>), sino de una interdependencia de influencias reciprocas de causas variadas, principalmente, aunque no exclusivamente, las 5 mencionadas más arriba.
+Para entender el análisis general de la sociedad de Pareto, primero tenemos que tener completamente en claro la distinción que el hace de entre «conducta lógica» y «conducta no-lógica».
 
 
-## * * *
+La <a href="https://es.wikipedia.org/wiki/Conductismo" target="_blank" rel="noopener noreferrer">conducta</a> de un hombre (osea una acción humana) es «lógica» bajo las siguientes circunstancias: Cuando su acción es motivada por un deliberadamente sostenido objetivo o propósito, cuando ese objetivo es posible, cuando los pasos o medios que el tóma para alcanzar la meta son de hecho apropiadas para alcanzarla.
 
 
->«Ya sea que a ciertos teoricos les guste o no, es un hecho que la sociedad humana no es algo homogeneo, quelos individuos son físca, moral e intelectualmente diferentes...    tal hecho, por tanto, lo tenemos que tener en cuenta. Así como también tenemos que tener en cuenta otro hecho: que las clases sociales no son enteramente distintas, incluso en sociedades donde prevalece un [sistema de castas](https://es.wikipedia.org/wiki/Casta), y que en los modernos paises civilizados la circulación entre las diferentes clases es excesivamente rápida. Debemos considerar el problema, a fin de simplificarlo, sólo en tanto su influencia en el equilibrio social y reducir tanto como sea posible el número de grupos y los modos de circulación, poniendo bajo una misma denominación fenómenos que dan prueva de ser aproximadamente similares»
+La conducta lógica es común en las artes, oficios y cíencias y frecuente en la actividad económica (Pareto llama al campo económico «intereses»).
 
-><a href="https://archive.org/stream/ParetoTheMindAndSocietyVol4TheGeneralFormOfSociety/Pareto%20-%20The%20Mind%20and%20Society%20Vol%201%3B%20Non-Logical%20Conduct#page/n10/mode/2up" target="_blank" rel="noopener noreferrer">Mente y Sociedad</a> (1916) como el resto de las citas
+Por ejemplo, un carpintero desea hacer una mesa (la produción de una mesa es un propósito deliberado). Esta meta es, normalmente, completamente posible, ensambla madera y herrajes, les aplica herramientas y como resultado obtiene la mesa: los medios que utiliza son de hecho apropiados para esta meta.
 
->«Asumamos que en cada rama de actividad humana a cada individuo se le da un indice que representa su capacidad de una forma similar a la que las notas se dan en las diferentes materias escolares. Al tipo más elevado de abogado, por ejemplo, se le dará un 10. Al tipo que no consigue ni un cliente se le dara 1, reservando el 0 para el tipo que es un completo idiota. Al que ha hecho sus millones, ya sea honesta o deshonestamnete, se le dará un 10. Al que se haya ganado sus miles se le dara un 6. Con los jugadores ajedrez se pueden adjudicar indices aún más precisos: bastará con anotar cuantos partidos y de que categoría han ganado. A las mujeres en la política, tales como Aspacia de Pericles, la Maintenon de Louis XIV o la Pampardour de Louis XV que se las han arreglado para seducir hombres de poder y jugar un rol en la carrera de estos se les dará un numero alto tal como 8 o 9. Y así sucesivamente para cada rama de la actividad humana.»
+Esta es una conducta que es lógica respecto a su actividad. O un científico quiere encontrar una cura a una dada enfermedad, diseña una serie de experimentos en concordancia con los canones habituales del método científico y determina si tal o cual droga logra una cura. O un trabajador quiere un mejor salario y cuando la oportunidad se presenta deja su trabajo por otro que en efecto paga más. Todas estas actividades son, en el sentido de Pareto, lógicas.
 
+Si, por ejemplo, una o más de las condiciones de conducta lógica no están presentes, entonces la acción es <a href="https://historiaencomentarios.com/tag/acciones-no-logicas/" target="_blank" rel="noopener noreferrer">no-lógica</a>.
 
 
+Las acciones pueden no tener motivación alguna. Esto sería cierto para la mayor parte del comportamiento animal, y Pareto, pese a todo el prejuicio de los racionalistas, cree que esto es cierto para un sorprente porcentaje del comportamiento humano.
 
-De alguna forma deberiamos ser capaces de distinguir, al menos aproximadamente, la elite, o mejor dicho <b>las elites</b> de las masas. Deberiamos rápidamente observar que los seres humanos no estan distribuidos de forma pareja sobre la escala. En la cima hay sólo unos pocos, considerablemente más en el medio y la abrumadora mayoria esta agrupada cerca del fondo. La elite es siempre una pequeña minoría.
+Los <a href="https://es.wikipedia.org/wiki/Tab%C3%BA" target="_blank" rel="noopener noreferrer">Tabúes</a> y otros actos supersticiosos, que no están en absoluto confinados a los pueblos primitivos, son ejemplos obvios, como lo son muchos rituales, deportes y cortesías. Los seres humanos simplemente hacen cosas, sin ningún propósito, es natural para ellos estar activos, haya o no algún punto conscientemente entendido en la actividad.
 
+Son muy comunes también, los casos donde el propósito o meta es imposible. El objetivo puede ser trascendente (osea ubicado fuera del mundo espacio-temporal real) y en todos esos casos desde el punto de vista científico de <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Pareto</a> se trata de casos estrictamente imposibles, como si el objetivo es el Paraíso o el Nirvana o la duplicación del cubo o cualquier otro sueño o ilusión trascendente.
 
+Por otro lado, hay casos donde el objetivo sin bien no es imposible en un sentido estrictamente lógico, puede ser imposible de todas formas para cualquier propósito práctico dada la naturaleza real del mundo.
 
+Entonces si la meta es que la torre de Babel alcance lo más alto del Paraíso o una utopía de paz eterna y buena voluntad universal o una meta personal fantástica como un soñador sin aptitudes que decide convertirse en el mejor violinista del mundo o un niño aprendiendo números queriendo contar hasta un billón.
 
-Dentro de la Elite debemos distinguir una «elite gobernante» de una «elite no gobernante». Las Elites de muchas ramas de la actividad humana -por tomar un ejemplo de los listados más arriba, la de los jugadores de ajedrez- no ejercen ninguna influencia apreciable en los asuntos políticos y la estructura social.
+En todos estos casos, la conducta motivada por tales metas, es <a href="https://historiaencomentarios.com/tag/acciones-no-logicas/" target="_blank" rel="noopener noreferrer">no-lógica</a>.
 
+Pareto es estricto con su definición. Puede ser que, que pese a que el propósito deliberado es imposible, las actividades realizadas le den ciertos resultados que la persona en cuestión juzgaría deseables si se parara a pensarlo.
 
+Esforzándose por una <a href="https://es.wikipedia.org/wiki/Utop%C3%ADa" target="_blank" rel="noopener noreferrer">utopía</a>, un trabajador podría lograr un incremento del 10% en su calidad de vida. Un resultado que sin duda juzgaría deseable mientras se diera. Aún en estos casos, para Pareto se trata de una conducta no-lógica, porque no es ni podría ser la consecuencia lógica de un propósito consciente. El resultado «deseable» aparece como un subproducto aleatorio y el objetivo en mente le es lógicamente irrelevante.
 
+Aquí tenemos la situación que analicé en este libro sobre <a href="https://es.wikipedia.org/wiki/Dante_Alighieri" target="_blank" rel="noopener noreferrer">Dante</a> (1265-1321) (ver <a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n9/mode/2up" target="_blank" rel="noopener noreferrer">The Formal Meaning of <i>De Monarchia</i></a> y <a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n15/mode/2up">The Real Meaning of <i>De Monarchia</i></a>) donde hay una disparidad entre el objetivo «formal» y el objetivo «real» de una acción, por tanto es una acción no-lógica. En la acción lógica el objetivo formal y el real son idénticos.
 
+Finalmente una acción es no-lógica cuando los medios utilizados para alcanzar la meta son de hecho inapropiados para tal propósito. Si el carpintero intentara martillar los clavos con una esponja, sus medios resultarían inapropiados, no importa que tan apropiados los encontrara él. De la misma forma si un cirujano usara un hacha para una apendicectomia o si un pueblo oprimido creyera que puede superar un régimen despótico con un asesinato o dos, o si un electorado democrático creyese que votando un cambio de partidos en el poder puede garantizar una era de prosperidad interminable.
 
-El caracter de una sociedad, sostiene <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Pareto</a>, es, por sobre todo, el caracter de su Elite, sus lógros son los logros de su Elite, su historia correctamente interpretada es la historia de su Elite, las predicciones exitosas sobre su futuro se basan en evidencia tomada de del estudio de la [composición y estructura de su Elite](https://archive.org/details/BurnhamJamesTheMachiavellians/page/n99/mode/2up). Las conclusines de Pareto aquí son las mismas que las de <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> (1858-1941) en su más estecho pero similar concepto de «[Clase Gobernante](/maquiavelicos/maq2)».
+Todo el mundo sabe que una cierta cantidad de conducta humana es no-lógica. <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Pareto</a> enfatiza la enorme cantidad del tipo no-lógico: <a href="https://archive.org/stream/ParetoTheMindAndSocietyVol4TheGeneralFormOfSociety/Pareto%20-%20The%20Mind%20and%20Society%20Vol%201%3B%20Non-Logical%20Conduct#page/n10/mode/2up" target="_blank" rel="noopener noreferrer">Su libro</a> contiene varios miles de ejemplos, cada uno de los cuales puede sugerir mil más del mismo tipo.
 
+Otros escritores sobre la naturaleza de la sociedad han reconocido la existencia de la conducta no-lógica y algunos incluso an admitido que, cuantitativamente, excede a la conducta lógica; pero casi todos ellos al final han sostenido que de alguna forma el margen de conducta lógica es lo «más distintivamente humano» y lo más decisivo para el desarrollo de gobierno y de la sociedad.
 
+Pareto no solo demuestra que la conducta no-lógica es predominante: Su punto crucial es que la conducta que tiene una influencia en la estructura social y política en lo que él llama «<a href="https://www.britannica.com/topic/social-equilibrium" target="_blank" rel="noopener noreferrer">Equilibrium Social</a>» esta por sobre todo en el terreno de lo no-lógico.
 
+O tomemos «Libertad, Equidad y Fraternidad» las grandes metas, según se creia, de la Declaración francesa de los Derechos del Hombre y de la <a href="https://es.wikipedia.org/wiki/Revoluci%C3%B3n_francesa" target="_blank" rel="noopener noreferrer">Revolución Francesa</a>. Cualquier cosa, o ninguna puede significarse por estos términos. No hay dos hombres que puedan ser iguales en todo respecto, todos son iguales en algunos. <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> nos recuerda que las tres palabras aparecían sobre la entrada de cada prisión francesa.
 
+La Carta Atlántica rubricada por Churchill y Roosevelt proclama como uno de los objetivos centrales de las Naciones Unidas es lograr pueblos «Libres de necesidad». Tal meta es estrictamente imposible. El hombre es, tal como vimos en otra conexión, un animal necesitado, no hay posible fin a su necesidad excepto la muerte, tal como los filósofos de Oriente siempre han insistido.
 
-La Elite de cualquier sociedad nunca es estatica. Su estructura, su composición y la forma en la que esta relacionada al resto de la sociedad estan en cambio constante. En su forma más obvia atravez de la muerte de sus miembros individuales y su replazo por otros. En sí mismo, esto no es significativo: si cada individuo muerto es remplazado por otro del mismo tipo, la Elite como un agrupamiento historico permanecerá inalterada. Lo que influencia los desarrollos sociales es el mero cambio de individuos sino el cambio en el tipo de individuos y en las relaciones de los varios tipos de individuos entre ellos y con el resto de la sociedad.
+Los programas de los partidos políticos declaran en favor de «la ley y el orden» pero pero las leyes y el orden de quien? Toda soberanía, dice la Constitución, esta investida en el pueblo, pero el parlamento más liberal y los más despóticos Bonapartistas reclaman de igual forma respetar la soberanía popular. Los Nazis piensan construir el «nuevo orden», pero tanto los campos de concentración como las casa de los obreros pueden ser consideradas partes de ese orden.
 
+El punto no es que estos slogans, ideales, programas y declaraciónes no influencien la acción. Bajo ciertas circunstacias sin duda lo hacen y tremendamente. Pero no son ni pueden ser parte de la acción lógica o racional. No estoy dando pasos lógicos hacia el objetivo si el presunto objetivo no es algo definido. Yo puedo decir, pase lo que pase, que he alcanzado un objetivo y vos podes decir que no es así. Sin importar lo que yo piense, la meta expresada en si misma y las deducciones que hago de ello no tienen relación con lo que hago.
 
+Mis acciones, más allá de las apariencias, son no-lógicas y no surgen de la supuesta meta sino de otras fuentes. Por eso en todos los casos, y estio incluye la mayoría de los que son relevantes al cambio social, donde las metas sean vagas , ambiguas o sin significado, la conducta humana es no-lógica.
 
+Sin embargo hay otros casos deonde la mata es lo suficientemente definida como para determinar objetivamente si las acciones tomadas están en corcondancia con ella. Aún en algunos de los ejemplos citados más arriba, el contexto histórico especifico puede dar un sentido bastante definido a términos que en sí mismos son completamente vagos. Como queda el asunto cuando las metas son al menos lo suficiente claras como para ser entendidas?
 
-Si, en la selección de los miembros de la Elite, existiese una condición de perfecta competencia de tal forma que cada individuo pudiese, sin ningún obstaculo, subir en la escala social tanto como sus talentos y ambiciones se lo permitiesen, se podría presumir que la Elite incluiría a cada momento y en el orden correcto, sólo a las personas que mejor encajen en ella. Bajo tales circunstancias -que Pareto parece imaginar a partir de la analogía del mercado libre teórico de la economía clásica o de la arena biologica de la lucha por la supervivencia- la sociedad permanecería dinamica y fuerte, corrigiendo automaticamente sus propias debilidades.
+Para empezar descubrimos que los hombres que profesan una dada meta son tan propensos a tomar acciones contrarias a ella como en concordancia con ellas. Tampoco podemos atribuir estas acciones en contrario a ducplicaciones, aquellos que actuan contrariamente a su objetivo pueden seguir sinceramente creyendo en él sin notar contradicción alguna.
 
+Uno de los diez mandamiento prohibe matar, pero todos los grupos Judios y Cristianos han matado sin alterar ni un poco su Fé en el mandamiento. En los tiempos modernos abundan los pacifistas, pero la mayoría de ellos apoyan las guerras en las que su país participa. La Rusia Sovietica no descarto para nada el ideal marxista de una sociedad sin clases mientras que la diferenciación de clases crecia a ritmo sostenido luego de la revolución. Comunidades con las creencias más estrictas en materia de monogamia, prohibicion y el pecado de apostar siempre muestran una buena dosis de promiscuidad sexual, alcoholismo y juego.
 
+##  * * *
 
+Similarmente debemos observar que varios grupos pueden profesar las mismas metas y tomar diferentes curso de acción incluso cursos de accion en conficto uno con otro. Partidos <a href="https://es.wikipedia.org/wiki/Reformismo" target="_blank" rel="noopener noreferrer">Reformistas</a>, Sindicalistas, Troskistas y Stanlinistas del movimiento obrero, todos citan los textos de Marx mientras se cortan las gargantas unos a otros. En un Estado el Septimo Mandamiento prohibe la pena capital, en otro la justifica.
 
 
-Sin embargo dicho tipo de condición jamas se encuentra en la realidad. Siempre hay obstaculos o "ataduras" como Pareto las llama, que interfieren con la libre circulación de los individuos hacia arriba y hacia abajo en la escala social. Principios especiales de selección, diferentes en cada sociedad, afectan la composición de la Elite de tal forma que ya no incluyen a todas las personas mejor preparadas para el gobierno de la sociedad.
+Por otro lado encontramos grupos que pueden profesar diferentes metas y aún así llevar a cabo el mismo tipo de acciones. <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Pareto</a> cita mucho ejemplos fascinantes. Alemania proclama una doctrina de superioridad racial que es condenada por los EEUU, pero así mismo su actitud hacia los negros es casí identica mientras que mantiene las actas de exclusion contra las razas amarillas. Los más variados códigos morales siempre han convivido con las mismas practicas sexuales que condenan. Stalin puede hablar de la sociedad sin clases del comunismo mientras que Hitler de la sociedad jerarquica del <i>Herrenvolk</i> pero seria muy difícil distinguir de las acciones de la Gestapo y de la O.G.P.U
 
+Estos efectos no fueron elegidos arbitrariamente a fin de probar una tesis. Fueron elegidos aleatoriamente y se podrían agregar más indefinidamente. Si el análisis de estas acciones similares muestra que son no-lógicas, que las metas no muestran relacion con las acciones en la práctica, entonces Pareto tiene razón y los reformistas, los racionalistas y los moralistas están equivocados. La creencia racional, deliberada y consciente no determina lo que va a ocurrir en la sociedad.
 
+El hombre social no es, tal como se lo ha definido por siglos, un animal primariamente racional. Cuando los reformistas nos dicen que la sociedad puede ser mejorada por la educación, incrementando el conocimiento de los hombres, proyectando el programa correcto y tomando accion para llevarlo a termino, están equivocados porque los hombres en sociedad no actuan de ese modo. Sus acciones, incluidas sus acciones socialemnte decisivas, emergen no de raices lógicas, sino de raices no-lógicas.
 
+La tendencia a minimizar la conducta no-lógica, según Pareto, se podría explicar en los tiempos modernos a la fuente tendencia <a href="https://es.wikipedia.org/wiki/Reformismo" target="_blank" rel="noopener noreferrer">Reformista</a> y el deseo de reformar la sociedad parece necesitar una acción lógica y por tanto quienes sienten el impulso moral de lograr dichas reformas tienden a minimizar el factor no-lógico.
 
+Sin embargo él mismo cree que en realidad los motivos son menos coyunturales y más profundos: El mayor obstaculo para comprenderlo deriva de que tenemos un fuerte impulso no-lógico de hacer que nuestras acciones y las de otros humanos parezcan lógicas. Somos incapaces de aceptar las conductas no-lógicas por lo que son así que conjuramos una explicación racional para ellas.
 
-Las debilidades se asentan y si no estan compensadas por una circulación del dia a dia y prosigen así por el tiempo suficiente, son corregidas agudamente por una revolución social, es decir, por la intromisión dentro de la Elite de grandes numeros de individuos hasta entonces privados por los obstaculos de encontrar su nivel social natural.
 
 
-
-
-
-El más evidente y universal de los obstaculos es el principio aristocratico. Los hijos de los miembros de la Elite son impulsados hacia una posición en la Elite sin importar sus propias capacidades y a expensas de individuos de mayor capacidad que no son de la Elite. Si a este principio se lo lleva lo suficientemente lejos, si la Elite se vuelve "cerrada" o casi, la degeneración inevitablemente se generalizará. El porcentage de gente débil e inferior dentro de la Elite necesariamente aumenta, mientras que personas más capaces se acumulan fuera de esta. Se llega a un punto en que la Elite será derrocada y destruida.
-
-
-
-
-
-
-Esto es, por ejemplo, lo que le ocurrio a [Esparta](https://es.wikipedia.org/wiki/Esparta). Las puertas de entrada a la Elite Espartana (Los Ciudadanos) estaban firmemente cerradas las demas clases de la población (los [Perioeci](https://es.wikipedia.org/wiki/Perieco) y       los [Ilotas](https://es.wikipedia.org/wiki/Ilota)). La Elite de alguna forma resguardo su salud interna mediante el procedimiento negativo de [matar a sus hijos debiles y enfermos](https://es.quora.com/Qu%C3%A9-hac%C3%ADan-los-espartanos-con-los-ni%C3%B1os-d%C3%A9biles-y-deformes), pero esto no resultó suficiente. 
-
-
-Pese a la inigualada tradición de auto sacrificio y disciplina, la Elite entro en claro declive en numeros, pero sobre todo en calidad hasta que finalmente fue derrotada, el siglo IV en la [Batalla de Leuctra](https://es.wikipedia.org/wiki/Batalla_de_Leuctra) (371 AC) por la [Ciudad-Estado](https://es.wikipedia.org/wiki/Ciudad-Estado) de [Tebas](https://es.wikipedia.org/wiki/Tebas_(Grecia)), la cual habia sido considerada por genraciones de Espartanos como poco más que un aliado secundario. De esta derrota, que en una Nación organizada menos rigidamente pudo haberse convertido en un impulso de rejuvenecimiento, Esparta no se recuperó nunca.
-
-
-De estas consideraciones se sigue que una circulación relativamente libre de las Elites -tanto en sentido ascendente como descendente en la escala social- es un requisito para una sociedad fuerte y saludable. Y contrariamente que cuando la Elite se vuelve cerrada o casi cerrada, dicha sociedad queda a la merced de la amenaza de revoluciones internas o la destrucción y conquista desde afuera. Debe mencionarse que Pareto no esta discutiendo aquí la ley o teoría del ingreso a la Elite sino los hechos de dicho fenómeno. 
-
-
-En teoría -al menos en la mayoría de las naciones modernas desde finales del siglo XIX- la entrada a la Elite estaría abierta para todos. Esto no tiene mayor importancia cuando en la práctica, ya sea por tal o cual dispositivo -denuevo al menos en la mayoría de las naciones modernas desde finales del siglo XIX- los advenedizos/ son dejados afuera. En los Estados unidos teoricamente todo el mundo tiene el derecho a volverse millonario o el dueño de una gran industria.
-
-Sin embargo al rededor de la época de la <a href="https://es.wikipedia.org/wiki/Primera_Guerra_Mundial" target="_blank" rel="noopener noreferrer">Primera Guerra Mundial</a> (1914-1919), los "newcomers", con menos de un puñado de excepciones, dejaron de convertirse en millonarios o grendes propietarios. Y contrariamente, ha habido sociedades donde la Elite era en teoría cerrada (por rígidas regulaciones hereditarias) pero en la práctica estaban de hecho abiertas, al menos a veces, por medios de adopción, clientage// o redefinición de ciudadania. Esto era verdad en ciertos periodos de Atenas y Roma.
-
-
-Pero, debido a que una circulación perfectamente libre en función de la habilidad personal no es posible, una sociedad fuerte y sana no se puede asegurar sólo haciendo a la Elite más o menos abierta. El problema que persiste es el de que tipo de individuos son admitidos o excluidos de la Elite.
-
-
-Ya habiamos notado, que de acuerdo a <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, los [residuos](/maquiavelicos/maq4) básicos dentro de una sociedad cambian poco y lentamente. Sin embargo, el carácter de la sociedad esta determinado no sólo por los residuos básicos que se encuentran en la sociedad sino también por la *distribución* de residuos entre las diferentes clases sociales. Y esta distribución puede cambiar bastante rápido. Para ponerlo más simple: una sociedad dada va incluir un cierto porcentaje relativamente estable de, por ejemlo, individuos inteligentes, pero un 
-
-
->«»
-
-
-
-
->«»
-
-
-
-
-
->«»

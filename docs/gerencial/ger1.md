@@ -5,13 +5,13 @@ slug: /category/la-revolución-gerencial-1941--james-burnham
 
 # La Teoría de la Permanencia del Capitalismo 
 
-<hr />
+ <hr style={{  marginTop: '2em' }} />
 
 <p class="md_footnote_size">
 Traducción paracial de <a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n3/mode/2up" target="_blank" rel="noopener noreferrer">The Managerial Revolution</a> (1941) de <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> (1905-1987) <br />
 </p>
 
-<hr />
+ <hr style={{  marginBottom: '2em' }} />
 
 Durante el siglo pasado, docenas, quizas incluso cientos de «Teorías de la Historia» han sido elaboradas. Estas difieren interminablemente en las palabras que utilízan, las explicaciones causales que ofrecen para los procesos historicos, las supuestas «Leyes» de la historia que parecen descubrir.
 

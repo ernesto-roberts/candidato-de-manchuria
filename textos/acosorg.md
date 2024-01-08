@@ -1,5 +1,5 @@
 ---
-date: 2023-12-30T10:00
+date: 2023-12-28T10:00
 title: Acoso Organizado
 slug: acosorg
 ---
@@ -171,7 +171,7 @@ Algunas fuentes indican que alrededor de 5,000 personas fueron "persistentemente
 ## Contra Individuos
 
 
-La [Stasi](https://es.wikipedia.org/wiki/Stasi) aplicó Zersetzung antes, durante, después o en lugar de encarcelar al individuo objetivo. La implementación de Zersetzung, llamada eufemísticamente Operativer Vorgang ("procedimiento operativo"), generalmente no tuvo como objetivo reunir pruebas contra el objetivo para iniciar un proceso penal. 
+La [Stasi](https://es.wikipedia.org/wiki/Stasi) aplicó Zersetzung antes, durante, después o en lugar de encarcelar al individuo objetivo. La implementación de Zersetzung, llamada eufemísticamente *Operativer Vorgang* ("procedimiento operativo"), generalmente no tuvo como objetivo reunir pruebas contra el objetivo para iniciar un proceso penal. 
 
 Más bien, la Stasi consideró al Zersetzung como una medida separada para ser utilizada cuando los procedimientos judiciales oficiales no eran deseables por razones políticas, como la imagen internacional de la RDA. 
 

@@ -1,5 +1,5 @@
 ---
-date: 2023-12-26T10:00
+date: 2023-11-26T10:00
 title: Noam Chomsky mató a Aaron Swartz
 slug: noamaaron
 ---

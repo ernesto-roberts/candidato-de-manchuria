@@ -10,7 +10,7 @@ sidebar_position: 3
 <hr />
  
 
-Los machos juegan el rol más grande en los baños de sangre: Cometen la mayor parte de los asesinatos y sufren la mayor parte de las muertes violentas. Esto los hace sonar bastante atroces. Y de hehco lo son. Los machos, por mucho, sobrepasan a las mujeres en matéria de agresión. Extirpale los testículos a un gallo y se volvera un ave pacífica. Reingerteselos en su estomago y las hormonas masculinas una vez que vuelvan al torrente sanguineo y lo vera buscando pelea denuevo.
+Los machos juegan el rol más grande en los baños de sangre: Cometen la mayor parte de los asesinatos y sufren la mayor parte de las muertes violentas. Esto los hace sonar bastante atroces. Y de hehco lo son. Los machos, por mucho, sobrepasan a las hembras en matéria de agresión. Extirpale los testículos a un gallo y se volvera un ave pacífica. Reingerteselos en su estomago y las hormonas masculinas una vez que vuelvan al torrente sanguineo y lo vera buscando pelea denuevo.
 
 
 

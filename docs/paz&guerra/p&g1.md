@@ -5,7 +5,7 @@ slug: /category/paz-y-guerra-1962----raymond-aron
 
 # Guerra Absoluta y Guerras Reales
 
-<hr />
+<hr style={{  marginTop: '3em' }} />
 
 <p class="md_footnote_size">
 Traducción paracial de "Paix et Guerre entre les Nations" (1962) de <a href="https://es.wikipedia.org/wiki/Raymond_Aron" target="_blank" rel="noopener noreferrer">Raymond Aron</a> (1905-1983) <br />

@@ -5,7 +5,7 @@ sidebar_position: 3
 # El Culto al 'Scientific Management'
 
 
->"La noche de un 9 de junio de 1834, un grupo de hombres prominentes "principalmente dedicados al comercio" se reunieron privadamente en un salón de dibujo en Boston para discutir un esquema de escolarización universal. El secretario de esta reunion era William Ellery Channing, el propio ministro de [Horace Mann](https://es.wikipedia.org/wiki/Horace_Mann_Sr.) asimismo como una importante figura internacional y el principal [unitario](https://es.wikipedia.org/wiki/Unitarismo#Historia) del momento. La ubicación de la casa no fue ingresadani los nombres de los participantes aparte de Channing. Pese a que el indice de alfabetización en Massachusetts era del 98 por ciento, y en la vecina Connecticut, 99.8 por ciento, los hombres de negocios reunidos allí acordaron que el sistema presente de escolarización dejaba demasiado librado al azar. Incentivaba más exuberancia emprendedora de la que el sistema social podía soportar"
+>"La noche de un 9 de junio de 1834, un grupo de hombres prominentes "principalmente dedicados al comercio" se reunieron privadamente en un salón de dibujo en Boston para discutir un esquema de escolarización universal. El secretario de esta reunion era William Ellery Channing, el propio ministro de [Horace Mann](https://es.wikipedia.org/wiki/Horace_Mann_Sr.) asimismo como una importante figura internacional y el principal [unitario](https://es.wikipedia.org/wiki/Unitarismo#Historia) del momento. La ubicación de la casa no fue ingresada ni los nombres de los participantes aparte de Channing. Pese a que el indice de alfabetización en Massachusetts era del 98 por ciento, y en la vecina Connecticut, 99.8 por ciento, los hombres de negocios reunidos allí acordaron que el sistema presente de escolarización dejaba demasiado librado al azar. Incentivaba más exuberancia emprendedora de la que el sistema social podía soportar"
 
 ><div class="md_quote_author_size">Appleton Papers collection,
 Massachusetts Historical Society</div>
@@ -44,8 +44,8 @@ misionero."
 
 
 Tras la muerte de Taylor en 1915, se formaron los Frederick W. Taylor Cooperators para proyectar su
-movimiento de <a href="https://en.wikipedia.org/wiki/Scientific_management" target="_blank" rel="noopener noreferrer">Scientific Management</a> en el futuro. Frank Copley llamó a Taylor «un hombre cuyo corazón
-estaba encendido de celo misionero». Mucho de lo relacionado con este [cuaquéro](https://es.wikipedia.org/wiki/Sociedad_Religiosa_de_los_Amigos) transformado en [unitario](https://es.wikipedia.org/wiki/Unitarismo#Historia),
+movimiento de <a href="https://en.wikipedia.org/wiki/Scientific_management" target="_blank" rel="noopener noreferrer">Scientific Management</a> en el futuro. Frank Copley llamó a Taylor «*un hombre cuyo corazón
+estaba encendido de celo misionero*». Mucho de lo relacionado con este [cuaquéro](https://es.wikipedia.org/wiki/Sociedad_Religiosa_de_los_Amigos) transformado en [unitario](https://es.wikipedia.org/wiki/Unitarismo#Historia),
 que se casó con una familia puritana que provenía del Arbella antes de convertirse finalmente en
 episcopaliano, tuvo un peso decisivo en la forma que tomó la escolarización en su país.
 

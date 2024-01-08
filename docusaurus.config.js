@@ -32,7 +32,7 @@ const config = {
     locales: ['es'],
   },
 
-
+ 
   plugins: [
     [
       '@docusaurus/plugin-content-blog',
@@ -52,7 +52,7 @@ const config = {
         path: './textos',
 
         showReadingTime: false,
-        blogSidebarTitle: 'Otros Textos',
+        blogSidebarTitle: 'Más Textos',
         blogSidebarCount: 'ALL',
       },
     ],
@@ -72,7 +72,7 @@ const config = {
         },
         blog: {
           showReadingTime: false,
-          blogSidebarTitle: 'Blog',
+          blogSidebarTitle: 'Dossiers',
           blogSidebarCount: 'ALL',
 
         },
@@ -114,10 +114,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'right',
-            label: 'Ebooks',
+            label: 'Intro Ebooks',
           },
-          {to: '/textos/guerra', label: 'Otros Textos', position: 'right'},
-          {to: '/blog/taylorismo', label: 'Blog', position: 'right'},
+          {to: '/textos/guerra', label: 'Más Textos', position: 'right'},
+          {to: '/blog/taylorismo', label: 'Dossiers', position: 'right'},
 
 
         ],
