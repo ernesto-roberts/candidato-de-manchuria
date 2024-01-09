@@ -6,13 +6,145 @@ title: Psicología de las Masas
 
 <hr />
 
-Resumen de [Psicología de las Masas](https://upcndigital.org/~ciper/biblioteca/Filosofia%20moderna/Psicologia-de-las-masas-G.-Le-Bon.pdf) <span class="pdf">[PDF]</span> (1895) por [Gustave LeBon](https://www.buscabiografias.com/biografia/verDetalle/10953/Gustave%20Le%20Bon)
+Resumen de [Psicología de las Masas](https://upcndigital.org/~ciper/biblioteca/Filosofia%20moderna/Psicologia-de-las-masas-G.-Le-Bon.pdf) <span class="pdf">[PDF]</span> (1895)  <br />
+por [Gustave LeBon](https://www.buscabiografias.com/biografia/verDetalle/10953/Gustave%20Le%20Bon) (1841-1931)
 
 <hr />
 
 
 
+## Introducción: La Era de las Masas
 
+Las grandes conmociones que preceden a los cambios de civilización parecen estar
+determinadas, en primer término, por considerables transformaciones políticas: invasiones
+de pueblos o derrocamientos de dinastías. Pero un atento estudio de tales sucesos descubre
+casi siempre, como su causa auténtica y tras sus motivos aparentes, una modificación
+profunda en las ideas de los pueblos. 
+
+ 
+
+
+La época actual constituye uno de los momentos críticos en los que el pensamiento humano
+está en vías de transformación.
+
+
+En la base de esta última se hallan dos factores fundamentales. El primero es la destrucción
+de las creencias religiosas, políticas y sociales de las que derivan todos los elementos de
+nuestra civilización. El segundo, la creación de condiciones de existencia y de pensamiento
+completamente nuevas, engendradas por los modernos descubrimientos de las ciencias y de
+la industria. 
+
+
+Aunque conmocionadas, las ideas del pasado siguen siendo todavía muy potentes y, dado
+que las sustitutas están aún en vías de formación, la edad moderna representa un período de
+transición y de anarquía.
+
+
+Hace apenas un siglo, la política tradicional de los estados y las rivalidades de los príncipes
+constituían los factores más importantes de los acontecimientos. La opinión de las masas no
+contaba casi nunca. Hoy día pesan poco las tradiciones políticas, las tendencias individuales de los soberanos, sus rivalidades. La voz de las masas se ha convertido en preponderante.
+Dicta a los reyes su conducta. No es ya en los consejos de los príncipes, sino en el alma de
+las masas donde se preparan los destinos de las naciones. 
+
+
+El advenimiento de las clases populares a la vida política, su progresiva transformación en
+clases dirigentes, es una de las más destacadas características de nuestra época de
+transición. Tal advenimiento no se ha debido, en realidad, al sufragio universal, tan poco
+influyente durante mucho tiempo y tan fácil de dirigir, al principio.
+
+
+
+Poco aptas para el razonamiento, las masas se muestran, por el contrario, muy hábiles para
+la acción. La organización actual convierte su fuerza en inmensa. Los dogmas que vemos
+nacer habrán adquirido muy pronto el poder de las viejas concepciones, es decir: la fuerza
+tiránica y soberana que queda fuera de discusión. El derecho divino de las masas sustituye
+al derecho divino de los reyes. 
+
+
+
+El advenimiento de las masas marcará quizá
+una de las últimas etapas de las [Civilizaciones de Occidente](https://es.wikipedia.org/wiki/La_decadencia_de_Occidente), un retorno hacia aquellos
+períodos de confusa anarquía que preceden a la eclosión de las nuevas sociedades. Pero,
+¿cómo impedirlo? 
+
+
+Hasta ahora, el papel más claro desempeñado por las masas ha consistido en las grandes
+destrucciones de civilizaciones envejecidas. La historia enseña que en el momento en el que
+las fuerzas morales, armazón de una sociedad, han dejado de actuar, la disolución final es
+efectuada por estas multitudes inconscientes y brutales, calificadas justamente de bárbaras.
+Las civilizaciones han sido creadas y han estado guiadas, hasta ahora, por una reducida
+aristocracia intelectual, jamás por las masas que no tienen poder más que para destruir.
+
+
+
+Su dominio representa siempre una fase de desorden. Una civilización implica reglas fijas, una
+disciplina, el tránsito desde lo instintivo hasta lo racional, la previsión del porvenir, un
+grado elevado de cultura, condiciones totalmente inaccesibles a las masas, abandonadas a sí
+mismas. Por su poder exclusivamente destructivo, actúan como aquellos microbios que
+activan la disolución de los cuerpos debilitados o de los cadáveres. Cuando el edificio de
+una civilización está carcomido, las masas provocan su derrumbamiento. Se pone entonces
+de manifiesto su papel. Durante un instante, la fuerza ciega del número se convierte en la
+única filosofía de la historia. 
+
+
+¿Sucederá lo mismo con nuestra civilización? Podemos temerlo, pero aún lo ignoramos. 
+
+Resignémonos a sufrir el reinado de las masas, ya que manos imprevisoras han derribado
+sucesivamente todas las barreras que podían contenerlas. 
+
+
+Estas masas, de las que tanto se comienza a hablar, las conocemos muy poco. Los
+psicólogos profesionales, que han vivido alejados de ellas, las han ignorado siempre y no
+les han prestado atención más que desde el punto de vista de los crímenes que pueden
+cometer. Indudablemente existen masas criminales, pero también las hay virtuosas,
+heroicas y muchas otras. Los crímenes de las masas no constituyen sino un caso particular
+de su psicología y, a partir de ellos, no se conocería mejor la constitución mental de las
+masas que la de un individuo del que tan sólo se describiesen los vicios.
+
+
+Así pues, a decir verdad, los amos del mundo, los fundadores de religiones o de imperios,
+los apóstoles de todas las creencias, los hombres de Estado eminentes y, dentro de una
+esfera más modesta, los simples jefes de pequeñas colectividades humanas siempre han
+sido psicólogos, sin saberlo, teniendo un conocimiento instintivo del alma de las masas con
+frecuencia muy seguro. 
+
+
+
+El conocimiento de la psicología de las masas constituye el recurso del hombre de Estado
+que desee, no gobernarlas (pues ello se ha convertido hoy día en algo muy difícil), sino, al
+menos, no ser completamente gobernado por ellas. 
+
+
+La psicología de las masas muestra hasta qué punto es escasa la acción ejercida sobre su
+naturaleza impulsiva por las leyes y las instituciones, y cuánta es su incapacidad para tener
+cualquier género de opiniones, aparte de aquellas que les son sugeridas. No sería posible
+conducirlas a base de reglas derivadas de la pura equidad teórica. Tan sólo pueden
+seducirlas aquellas impresiones que se hacen surgir en su alma. Si un legislador desea, por
+ejemplo, establecer un nuevo impuesto, ¿deberá escoger aquel que es, en teoría, más justo?
+En modo alguno.
+
+
+ El más injusto podrá ser prácticamente el mejor para las masas, si es el
+más invisible y el menos oneroso en apariencia. Así, un impuesto indirecto, aunque sea
+exorbitante, siempre será aceptado por la masa. Si grava, diariamente, objetos de consumo
+en fracciones de céntimo, no perturbará los hábitos de las masas y causará poca impresión.
+
+
+
+Pero si se sustituye por un impuesto proporcional sobre los salarios u otros ingresos, a
+pagar en una sola vez, levantará unánimes protestas, aunque sea diez veces menos oneroso.
+Los céntimos invisibles de todos los días son sustituidos entonces, en efecto, por una suma
+total relativamente elevada y, en consecuencia, produce mayor impresión. Tan sólo pasaría
+inadvertida si hubiera sido apartada poco a poco, céntimo a céntimo; pero este
+procedimiento económico supone una dosis de previsión de la que son incapaces las masas (Ver [impuesto inflacionario](https://es.wikipedia.org/wiki/Impuesto_inflaci%C3%B3n)). 
+
+
+
+
+
+Nuestro estudio del alma de las masas es sólo una breve síntesis, un simple resumen de
+nuestras investigaciones. Unicamente pueden exigírsele algunas sugerencias. A otros corresponderá labrar con más profundidad el surco. Nosotros, hoy, no hacemos más que
+trazarlo sobre un terreno aún muy inexplorado.
 
 
 

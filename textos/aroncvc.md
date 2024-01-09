@@ -7,7 +7,7 @@ title: Clausewitz y la Guerra No Convencional.
 
 <hr />
 
-Traducciòn de [Clausewitz y la Guerra No Convencional](/) (1973) <br />
+Traducciòn de *[Clausewitz y la Guerra No Convencional](https://revistamarina.cl/revistas/1973/3/raron.pdf) <span class="pdf">[PDF]</span>* (1973) <br />
 de <a href="https://es.wikipedia.org/wiki/Raymond_Aron" target="_blank" rel="noopener noreferrer">Raymond Aron</a> (1905-1983)
 
 <hr />
@@ -35,8 +35,7 @@ idioma alemán, la literatura al respecto
 me ha parecido relativamente pobre.
 ¿Qué comentaristas se dan el trabajo de
 seguir el argumento más sistemático, más
-filosófico, de los tratados consagrados alguna vez a la estrategia? B. H. Liddell
-Hart ha escrito que Clausewitz usaba un
+filosófico, de los tratados consagrados alguna vez a la estrategia? [B. H. Liddell](https://es.wikipedia.org/wiki/Basil_Liddell_Hart) ha escrito que Clausewitz usaba un
 lenguaje filosófico sin poseer un verdadero espíritu filosófico. Marx y Lenin lo
 han conceptuado de otra manera.
 

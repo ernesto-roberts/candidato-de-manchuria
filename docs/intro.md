@@ -42,7 +42,7 @@ La sección [Intro Ebooks](/), cuyo indice pueden ver ahora mismo a su izquierda
 Estos titulos fueron elegidos por ser una buena introducción a las diferentes materias que se consideran básicas para el tema que se intenta abordar aquí y también por ayudar a despejar una serie de prejuicios tan extendidos como engañosos.
 
 
-Notese que el formato web permite agregar a estos titulos una serie de links que resultan muy prácticos a la hora de leer rápidas definicines al paso de un vocabulario a menudo bastante especializado, dando una nueva posibilidad de lectura más comoda y rápida, al mismo tiempo que de mayor exactitud.
+Notese que el formato web permite agregar a estos titulos una serie de links que resultan muy prácticos a la hora de leer rápidas definiciones al paso de un vocabulario a menudo bastante especializado, dando una nueva posibilidad de lectura más comoda y rápida, al mismo tiempo que de mayor exactitud.
 
 
 Hay otro valor agregado más en la consulta frecuente de links: La "*Ingenieria Social Inversa*" es, en gran medida, un tema de "*atar cabos*" y "*unir puntos*" y mientras más definiciones tengan es su almacenamiento mental con mayor facilidad lo haran. 
@@ -136,7 +136,7 @@ La primera clase, invariablemente la menos numerosa, ejecuta todas las funciones
 
 </blockquote>
 
-Es de notar, siendo este un sitio dedicado a la [Ingenieria Social inversa](/), que tres de los teòricos mencionados en "Los Maquiavelicos, <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> y <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a>, estudiaron para y ejercieron como Ingenieros, algo de lo que parece haber rastros en su metodologìa, tal como la describe Burnham:
+Es de notar, siendo este un sitio dedicado a la [Ingenieria Social Inversa](/), que tres de los teòricos mencionados en "Los Maquiavelicos, <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> y <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a>, estudiaron para y ejercieron como Ingenieros, algo de lo que parece haber rastros en su metodologìa, tal como la describe Burnham:
 
 <blockquote>
 
