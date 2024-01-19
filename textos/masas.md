@@ -1,12 +1,12 @@
 ---
-date: 2023-11-24T10:00
+date: 2023-12-20T10:00
 slug: Masas
 title: Psicología de las Masas
 ---
 
 <hr />
 
-Resumen de [Psicología de las Masas](https://upcndigital.org/~ciper/biblioteca/Filosofia%20moderna/Psicologia-de-las-masas-G.-Le-Bon.pdf) <span class="pdf">[PDF]</span> (1895)  <br />
+Resumen de *[Psicología de las Masas](https://upcndigital.org/~ciper/biblioteca/Filosofia%20moderna/Psicologia-de-las-masas-G.-Le-Bon.pdf) <span class="pdf">[PDF]</span>* (1895)  <br />
 por [Gustave LeBon](https://www.buscabiografias.com/biografia/verDetalle/10953/Gustave%20Le%20Bon) (1841-1931)
 
 <hr />
@@ -21,8 +21,6 @@ de pueblos o derrocamientos de dinastías. Pero un atento estudio de tales suces
 casi siempre, como su causa auténtica y tras sus motivos aparentes, una modificación
 profunda en las ideas de los pueblos. 
 
- 
-
 
 La época actual constituye uno de los momentos críticos en los que el pensamiento humano
 está en vías de transformación.
@@ -31,8 +29,8 @@ está en vías de transformación.
 En la base de esta última se hallan dos factores fundamentales. El primero es la destrucción
 de las creencias religiosas, políticas y sociales de las que derivan todos los elementos de
 nuestra civilización. El segundo, la creación de condiciones de existencia y de pensamiento
-completamente nuevas, engendradas por los modernos descubrimientos de las ciencias y de
-la industria. 
+completamente nuevas, engendradas por los [modernos descubrimientos de las ciencias y de
+la industria](/category/el-taller-y-el-cronometro-1978-benjamin-coriat). 
 
 
 Aunque conmocionadas, las ideas del pasado siguen siendo todavía muy potentes y, dado
@@ -40,30 +38,34 @@ que las sustitutas están aún en vías de formación, la edad moderna represent
 transición y de anarquía.
 
 
-Hace apenas un siglo, la política tradicional de los estados y las rivalidades de los príncipes
+Hace apenas un siglo*, la política tradicional de los estados y las rivalidades de los príncipes
 constituían los factores más importantes de los acontecimientos. La opinión de las masas no
 contaba casi nunca. Hoy día pesan poco las tradiciones políticas, las tendencias individuales de los soberanos, sus rivalidades. La voz de las masas se ha convertido en preponderante.
 Dicta a los reyes su conducta. No es ya en los consejos de los príncipes, sino en el alma de
 las masas donde se preparan los destinos de las naciones. 
 
+<p class="md_footnote_size">
+* Este texto data de 1895
+</p>
+
 
 El advenimiento de las clases populares a la vida política, su progresiva transformación en
-clases dirigentes, es una de las más destacadas características de nuestra época de
+[clases dirigentes](/maquiavelicos/maq2), es una de las más destacadas características de nuestra época de
 transición. Tal advenimiento no se ha debido, en realidad, al sufragio universal, tan poco
 influyente durante mucho tiempo y tan fácil de dirigir, al principio.
 
 
 
 Poco aptas para el razonamiento, las masas se muestran, por el contrario, muy hábiles para
-la acción. La organización actual convierte su fuerza en inmensa. Los dogmas que vemos
+la acción. La organización actual convierte su fuerza en inmensa. Los [dogmas](https://es.wikipedia.org/wiki/Dogma) que vemos
 nacer habrán adquirido muy pronto el poder de las viejas concepciones, es decir: la fuerza
-tiránica y soberana que queda fuera de discusión. El derecho divino de las masas sustituye
+tiránica y [soberana](https://es.wikipedia.org/wiki/Soberan%C3%ADa) que queda fuera de discusión. El derecho divino de las masas sustituye
 al derecho divino de los reyes. 
 
 
 
 El advenimiento de las masas marcará quizá
-una de las últimas etapas de las [Civilizaciones de Occidente](https://es.wikipedia.org/wiki/La_decadencia_de_Occidente), un retorno hacia aquellos
+una de las [últimas etapas de las civilizaciones de Occidente](https://es.wikipedia.org/wiki/La_decadencia_de_Occidente), un retorno hacia aquellos
 períodos de confusa anarquía que preceden a la eclosión de las nuevas sociedades. Pero,
 ¿cómo impedirlo? 
 
@@ -121,7 +123,7 @@ cualquier género de opiniones, aparte de aquellas que les son sugeridas. No ser
 conducirlas a base de reglas derivadas de la pura equidad teórica. Tan sólo pueden
 seducirlas aquellas impresiones que se hacen surgir en su alma. Si un legislador desea, por
 ejemplo, establecer un nuevo impuesto, ¿deberá escoger aquel que es, en teoría, más justo?
-En modo alguno.
+de ninguna forma.
 
 
  El más injusto podrá ser prácticamente el mejor para las masas, si es el
@@ -327,11 +329,10 @@ vamos a estudiarlas ahora en detalle.
 
 
 Varios de sus rasgos especiales, como la impulsividad, irritabilidad, incapacidad de
-razonar, ausencia de juicio y de espíritu crítico, exageración de los sentimientos, etc.,
-pueden observarse también en seres pertenecientes a formas inferiores de evolución, como
-son el salvaje y el niño. Se trata de una analogía que no señalo más que de pasada. Su
+razonar, ausencia de juicio y de espíritu crítico, exageración de los sentimientos, etc,
+pueden observarse también en las sociedades primitivas y los niños. Se trata de una analogía que no señalo más que de pasada. Su
 demostración excedería el marco de esta obra. Por otra parte, sería inútil para las personas
-que están al corriente de la psicología de los primitivos y apenas convencería a quienes la
+que están al corriente de la psicología de los de tales sociedades y apenas convencería a quienes la
 ignoran.
 
 

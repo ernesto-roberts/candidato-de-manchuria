@@ -51,7 +51,7 @@ Hay otro valor agregado más en la consulta frecuente de links: La "*Ingenieria 
 Ademas gran parte de los links son a textos fundamentales a nuestro proposito pero que por una cuestion de tiempo y espacio no han podido ser traducidos o transcriptos aqui.
 
 
-La otra sección que se vale del [fair use](https://youtu.be/ZYB5HKJ20Lc) para publicar transcripciones y/o traducciones es [Más Textos](/textos). Aquí el formato es un poco más diverso aun (ensayos, entradas de blog, articulos periodisticos, capitulos sueltos, resumenes, entrevistas, documentos, etc, etc) y más especializado.
+La otra sección que se vale del [fair use](https://youtu.be/ZYB5HKJ20Lc) para publicar transcripciones y/o traducciones es [Más Textos](/textos/guerra). Aquí el formato es un poco más diverso aun (ensayos, entradas de blog, articulos periodisticos, capitulos sueltos, resumenes, entrevistas, documentos, etc, etc) y más especializado.
 
 
 La seccion [Dossiers](/blog/taylorismo) que acompaña a ambas secciones es obra del compilador de aquellas y buscará dar marco y sentido a una ecléctica bibliografía que no fue necesariamente escríta en función de una disciplina en particular ni es necesariamente moderna, pero esto último es precisamente importante a fin de dar una perspectiva «*genealógica*» a nuestra investigación.
@@ -98,7 +98,9 @@ O también en el hecho de que a casi 120 años de la publicación de <a href="ht
 
 Por esto no es de sorprenderse de que dos capìtulos ([La Función del Mito](/maquiavelicos/maq3) y [La Función de la Violencia](/maquiavelicos/maq4), traducciones de este sitio) del libro de Burnham "*Los Maquiavelicos*" (1943) esten dedicados a Sorel, dado que fue este el libro que siguio a "*La Revoluciòn Gerencial*" y es justamente donde intenta fundamentar las predicciones hechas en el anterior, por algo son los dos ebooks que encabezan el indice de esta secciòn. 
 
-Allì Burnham reseña a los continuadores modernos de <a href="https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo" target="_blank" rel="noopener noreferrer">Nicolo Maquiavelo</a>: <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> (1858-1941), <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> (1848-1923), <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> (1876-1936) y <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a> (1847-1922).
+Allí Burnham reseña a los continuadores modernos de <a href="https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo" target="_blank" rel="noopener noreferrer">Nicolo Maquiavelo</a>: <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a> (1858-1941), <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> (1848-1923), <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> (1876-1936) y <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a> (1847-1922)*.
+
+<p class="md_footnote_size">* Es de notar, a proposito de la Ingenieria Social Inversa, que Mosca, Pareto y Sorel, estudiaron para y ejercieron como ingenieros</p>
 
 Y alli, sobre el tema de las predicciones exitosas (crìtico para la validaciòn cientifica), es Pareto quien se expresa màs explicitamente:
 
@@ -110,7 +112,7 @@ Y alli, sobre el tema de las predicciones exitosas (crìtico para la validaciòn
 
 Ya habimos apuntado mas arriba que la premisa «*Toda Teorización Social es Ingenieria Social*», apunta a esta dicotomía entre intención "*divulgativa*" (conocimiento publicado con la intencion de "*ilustrar*" al público general sobre fenomenos sociales) y su utilidad "*manipulativa*" (dichos conocimiento pero utilizados para manipular al público general aprovechando dichos fenomenos sociales).
 
-Este fenomeno parece tener una correlaciòn con la descripciòn de la estructura social que hacen estos pensadores, también conocidos como <a href="https://es.wikipedia.org/wiki/Teor%C3%ADas_de_la_%C3%A9lite#Te%C3%B3ricos_cl%C3%A1sicos_de_la_%C3%A9lite" target="_blank" rel="noopener noreferrer">Escuela Elitista Italiana</a>, tal como se expresa en [Mosca: La Clase Gobernante](/maquiavelicos/maq2), otro capitulo del mismo libro:
+Este fenomeno parece tener una correlaciòn con la descripciòn de la estructura social que hacen estos pensadores, también conocidos como <a href="https://es.wikipedia.org/wiki/Teor%C3%ADas_de_la_%C3%A9lite#Te%C3%B3ricos_cl%C3%A1sicos_de_la_%C3%A9lite" target="_blank" rel="noopener noreferrer">Escuela Elitista Italiana</a>, como por ejemplo en esta cita textual de Mosca incluida en [Mosca: La Clase Gobernante](/maquiavelicos/maq2), otro capitulo del mismo libro:
 
 
 
@@ -136,18 +138,13 @@ La primera clase, invariablemente la menos numerosa, ejecuta todas las funciones
 
 </blockquote>
 
-Es de notar, siendo este un sitio dedicado a la [Ingenieria Social Inversa](/), que tres de los teòricos mencionados en "Los Maquiavelicos, <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> y <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a>, estudiaron para y ejercieron como Ingenieros, algo de lo que parece haber rastros en su metodologìa, tal como la describe Burnham:
 
-<blockquote>
 
-«Es caracteristico del análisis político maquiavelico ser «anti-formal» usando «formal» en el sentido en el que lo he definido en las secciones dedicadas al <i>De Monarchia</i> de <a href="https://es.wikipedia.org/wiki/Dante_Alighieri" target="_blank" rel="noopener noreferrer">Dante</a>  (1265-1321) (ver <a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n9/mode/2up" target="_blank" rel="noopener noreferrer">The Formal Meaning of <i>De Monarchia</i></a> y <a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n15/mode/2up">The Real Meaning of <i>De Monarchia</i></a>). Es decir, que los maquiavelicos, en su investigación del comportamiento político, no aceptan «al pie de la letra» lo que los hombres dicen, creen o escriben. Ya sea el habla, la carta o libro de un inviduo, o un documento público tal como una constitución o un grupo de leyes o una plataforma política, los maquiavelicos lo tratan sólo como un hecho más dentro del ámplio grupo general de hechos sociales, e interpretan su sentido siempre en relación a estos otros hechos.
+Este hecho esta implicito en los origenes de la [Ingeniería Social](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_social_(ciencia_pol%C3%ADtica)) moderna que, como muchos saben, se remonta la época de los [Robber Barons](https://es.wikipedia.org/wiki/Barones_ladrones) (1870-1910) cuando los insaciables <a href="https://es.wikipedia.org/wiki/Trust" target="_blank" rel="noopener noreferrer">trusts</a> y <a href="https://es.wikipedia.org/wiki/Monopolio" target="_blank" rel="noopener noreferrer">monopolios</a> comenzarón a recurrir en masa a un, por entonces, novedoso [estratagema](https://es.wikipedia.org/wiki/Estratagema) para blanquear tanto su imagen como sus activos: La [filantropía](https://es.wikipedia.org/wiki/Filantrop%C3%ADa#Ventajas_para_el_fil%C3%A1ntropo).
 
-En algunos casos, el examen cuidadoso revela que las palabras pueden ser aceptadas tal como estan, pero es más usual, como encontramos en De Monarchia, un divorcio entre significado formal y significado real, con las palabras distoricionando y disfrazando el comportamiento político real que indirectamente expresan.»
+Y como para demostrar lo inutiles que iniciativas como las leyes antimonopolicas suelen resultar ante la ley de hierro de la oligarquia, mediante la financiacion de instituciones filantropicas no solo lograron el deseado blanqueo sino que ademas, con la inestimable ayuda del tiempo, se dieron el lujo de comenzar a modelar la sociedad a la cual, en teoría, debian rendir cuentas.
 
-[Mosca: La Clase Gobernante](/maquiavelicos/maq2)
-</blockquote>
 
-Ahora pasemos a ver el segundo principio de la [Ingenieria Social inversa](/)
 
 ## Toda Ingenieria Inversa es Ingenieria Social Inversa
 

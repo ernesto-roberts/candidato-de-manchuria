@@ -6,7 +6,7 @@ title: La Anticipacion
 
 <hr />
 
-Capitulo de *[Tecnicas del Guion Para Cine y Television](/) <span class="pdf">[PDF]</span>* (1984) <br />
+Capitulo de *[Tecnicas del GuiónPara Cine y Television](/) <span class="pdf">[PDF]</span>* (1984) <br />
 de [Eugene Vale](/)
 
 <hr />
@@ -30,7 +30,7 @@ en el relato, es de gran valor para la construcción de una película. Willian
 Archer dice en su libro Playmaking:
 
 >"El placer esencial y constante del teatro
-radica en el conocimiento por anticipado. En relación con los personajes de un
+radica en el conocimiento por anticipado. En relación cónlos personajes de un
 drama, el espectador es como un dios que observa antes y después. Sentados
 en la platea, saboreamos por un momento la gloria de la omnisciencia. Con
 una visión ilimitada observamos las vacilaciones de los torpes mortales por la
@@ -49,14 +49,14 @@ prever.
 
 
 En muchos casos en los que el objetivo (es decir el resultado en el futuro)
-sigue con certeza a la intención, nuestra anticipación será segura. Por ejemplo
+sigue cóncerteza a la intención, nuestra anticipación será segura. Por ejemplo
 el sol "*intenta*" levantarse todas las mañanas. Anticipamos que se levantará
 todas las mañanas. Pero podemos decir: "*El agua comenzará a hervir... si está
 el tiempo suficiente sobre el fuego*". 
 
 
 La segunda parte de la frase expresa la inseguridad de nuestra anticipación. Quizás alguien extinguirá el fuego o retirará
-el jarro de él. Entonces hay intenciones que no tienen oportunidades de éxito porque son desesperadas o imposibles. En este caso el espectador se rehusará
+el jarro de él. Entonces hay intenciones que no tienen oportunidades de éxito porque sóndesesperadas o imposibles. En este caso el espectador se rehusará
 a anticipar su éxito aunque el actor en el relato crea en él. 
 
 
@@ -74,7 +74,7 @@ La experiencia es a su vez prueba acumulada mediante repetición. Si la
 misma cosa se comporta de la misma manera en las mismas circunstancias, es
 lógico suponer que continuará manteniendo idéntico comportamiento. Si esta
 repetición presenta la constancia suficiente como para tener lugar en mil oportunidades, se la puede cristalizar en una ley científica de exactitud absoluta,
-guiando así nuestra anticipación con certeza.
+guiando así nuestra anticipación cóncerteza.
 
 
 Esperamos que el sol se levante cada mañana como lo ha hecho durante
@@ -91,7 +91,7 @@ cielo*". Los profetas que dirigían sus profecías a la gente simple sabían que
 movimiento del sol era una anticipación bien establecida que, si se interrumpía, produciría un horrible cambio en la naturaleza.
 
 
-Así entendemos que varios espectadores puedan tener distinto conocimiento con respecto al mismo hecho, de modo que anticipan cosas diferentes,
+Así entendemos que varios espectadores puedan tener distinto conocimiento cónrespecto al mismo hecho, de modo que anticipan cosas diferentes,
 algunos correcta y otros incorrectamente, y otros no anticipan para nada. 
 
 
@@ -105,7 +105,7 @@ pasará por cierta esquina a una hora determinada.
 
 Hechos habituales, instituciones legales, la constancia de los esquemas
 psicológicos o la mera repetición pueden provocar nuestra anticipación. Pero
-con respecto al comportamiento humano, un hecho que se repite cuatro o cinco veces nos inducirá a anticipar su recurrencia. 
+cónrespecto al comportamiento humano, un hecho que se repite cuatro o cinco veces nos inducirá a anticipar su recurrencia. 
 
 
 
@@ -118,19 +118,19 @@ que lo encarcelarán cuando lo atrapen.
 
 
 El conocimiento general del espectador, que varía en su capacidad de
-comprensión, se puede y debe ampliar por la información que el relato proporciona con respecto a un hecho o persona específicos. Por ejemplo: se debe
+comprensión, se puede y debe ampliar por la información que el relato proporciona cónrespecto a un hecho o persona específicos. Por ejemplo: se debe
 hacer que el espectador sepa que el padre es brutal para que anticipe que golpeará a su hijo que ha roto una ventana. 
 
 
 La información, proporcionada por el relato, nos hará anticipar en tanto
-contenga el elemento de repetición. Podemos recordar que la propia definición de una característica se basa en la repetición en contraste con el humor
-pasajero. De modo que el factor de repetición, si está en relación con un carácter o hecho, puede ser establecido o tan sólo sugerido, pero puede surgir automáticamente si se muestra tres o cuatro veces el mismo hecho en el curso del
+contenga el elemento de repetición. Podemos recordar que la propia definición de una característica se basa en la repetición en contraste cónel humor
+pasajero. De modo que el factor de repetición, si está en relación cónun carácter o hecho, puede ser establecido o tan sólo sugerido, pero puede surgir automáticamente si se muestra tres o cuatro veces el mismo hecho en el curso del
 relato.
 
 
-Si un estafador contrae matrimonio con diversas mujeres como método
+Si un estafador contrae matrimonio cóndiversas mujeres como método
 para obtener su dinero, luego de la segunda o tercera mujer anticipamos que
-actuará de modo similar con cualquier otra mujer que encuentre. 
+actuará de modo similar cóncualquier otra mujer que encuentre. 
 
 
 La repetición es un efecto muy frecuente en la comedia: cada vez que un
@@ -140,7 +140,7 @@ aun antes de que haya abierto su boca. Es una reiteración cómica del viejo exp
 
 
 Ahora está claro que se puede reemplazar y hasta contradecir la información proporcionada por el relato por medio de una información posterior, durante el progreso de los hechos. En consecuencia nuestra anticipación está sujeta a cambios constantes, ya sea por interrupción, transformación o reemplazo. Por ejemplo, en "*Forasteros en Nueva York*" (The Out-of-Towners), de
-Neil Simón, dirigida por Arthur Hiller, Jack Lemmon interpreta a un joven
+Neil Simón, dirigida por Arthur Hiller, Jack Lemmóninterpreta a un joven
 ejecutivo que vuela a Nueva York para una importante cita de negocios. 
 
 Todo
@@ -150,7 +150,7 @@ en el Waldorf Astoria, lo detienen y arrestan y a su regreso a casa secuestran
 su avión y lo desvían hacia Cuba. 
 
 
-A pesar de que se debe interrumpir y con ello destruir una anticipación
+A pesar de que se debe interrumpir y cónello destruir una anticipación
 que no se cumple, la anticipación que se deja flotando en el aire produce una
 satisfacción subconsciente en el espectador. 
 
@@ -171,20 +171,20 @@ anticipación: "*He de ser un hombre honesto*".
 
 
 Hay una broma familiar basada en la anticipación insatisfecha. Un vendedor que está durmiendo en una pequeña posada es despertado en mitad de la
-noche por otro pasajero que vuelve a su cuarto en el piso superior muy alcoholizado. Con absoluta falta de consideración por los que duermen, el borracho
+noche por otro pasajero que vuelve a su cuarto en el piso superior muy alcoholizado. Cónabsoluta falta de consideración por los que duermen, el borracho
 arroja al suelo una de sus botas. Pasa una hora. Finalmente el vendedor ya no
 lo puede soportar. Golpea la pared y grita: "*Por el amor a Dios, arroje la segunda bota para que me pueda volver a dormir*". Muchas películas están llenas de segundas botas que no caen. 
 
 
 
 Se debe comprender que no sólo el espectador anticipa; los actores en la
-pantalla también están en condiciones de anticipar. Las anticipaciones generales, basadas en conocimientos universales, son iguales para todos los seres humanos: tanto el espectador como el actor anticipan que un fósforo quemándose en un pajar comenzará un incendio. 
+pantalla también están en condiciones de anticipar. Las anticipaciones generales, basadas en conocimientos universales, sóniguales para todos los seres humanos: tanto el espectador como el actor anticipan que un fósforo quemándose en un pajar comenzará un incendio. 
 
 
 En cuanto a otras anticipaciones que
 están basadas en conocimientos especíñcos, el actor puede poseer una información distinta a la de otro actor o a la del espectador. Esto ya fue explicado
 en el capítulo sobre división del conocimiento. Sólo nos resta agregar que las
-anticipaciones de dos actores con respecto a la misma cosa pueden estar en total contraste. O que la anticipación de un actor puede estar en contraste con la
+anticipaciones de dos actores cónrespecto a la misma cosa pueden estar en total contraste. O que la anticipación de un actor puede estar en contraste cónla
 del espectador que tiene una información distinta. 
 
 
@@ -195,8 +195,8 @@ Un criminal quiere iniciar una vida honesta ignorando que sus viejos compañeros
 del *Titanic*. Su anticipación: una luna de miel feliz; la anticipación del espectador: el naufragio.
 
 
-O un efeao cómico usado con frecuencia en las primeras
-películas: alguien lleva un paquete sin saber que contiene dinamita. Con la
+O un efeao cómico usado cónfrecuencia en las primeras
+películas: alguien lleva un paquete sin saber que contiene dinamita. Cónla
 más absoluta confianza enciende un fósforo y fuma un cigarrillo, anticipando
 que nada ocurrirá, mientras el espectador anticipa que la dinamita explotará.
 
@@ -221,7 +221,7 @@ El peligro de la expectativa cumplida es que es casi una duplicación: le estamo
 cumple, o el hecho debe ser realmente interesante como para que el espectador no se aburra.
 
 
- En muchos casos es interesante comparar el hecho anticipado con el que la imaginación previo. La sorpresa es uno de los efectos más importantes en cualquier relato, ya se la use para comedia, drama o tragedia. Debemos anticipar que otro hecho tendrá lugar para que nos sorprenda el resultado real. Si no anticipamos nada, no nos podemos sorprender. En este sentido se debe reconocer que un estado de hechos totalmente pacíficos, donde no
+ En muchos casos es interesante comparar el hecho anticipado cónel que la imaginación previo. La sorpresa es uno de los efectos más importantes en cualquier relato, ya se la use para comedia, drama o tragedia. Debemos anticipar que otro hecho tendrá lugar para que nos sorprenda el resultado real. Si no anticipamos nada, no nos podemos sorprender. En este sentido se debe reconocer que un estado de hechos totalmente pacíficos, donde no
 se anticipa totalmente nada, contiene una anticipación definida, es decir que
 nada sucederá. Si de repente sucede algo, nuestra anticipación es sorprendida. 
 
@@ -229,11 +229,11 @@ nada sucederá. Si de repente sucede algo, nuestra anticipación es sorprendida.
 
 Para tal caso se debe llevar al espectador a creer algo antes de que se pueda
 sorprender. En el vodevil (y nadie sabe más sobre los efectos de escena que los
-artistas de vodevil) uno recordará con qué cuidado un payaso preparó su
+artistas de vodevil) uno recordará cónqué cuidado un payaso preparó su
 sorpresa. Por ejemplo: un payaso comienza a saltar un cerco. Empieza a hacer
 preparativos considerables, dejando bien entendido que va a saltar. Indica las
 grandes dificultades de lo que hará, intensificando de ese modo la anticipación
-del espectador. Una y otra vez indica su intención hasta que el espectador anticipa su salto con absoluta certeza. 
+del espectador. Una y otra vez indica su intención hasta que el espectador anticipa su salto cónabsoluta certeza. 
 
 
 Finalmente rodea el cerco caminando. La anticipación del auditorio es
@@ -269,14 +269,14 @@ inmediato, pero pasa mucho tiempo hasta que la persona entra.
 
 Pero cuando anticipamos un hecho para un momento determinado, ese
 hecho puede ocurrir demasiado temprano en lugar de demasiado tarde. Por
-ejemplo: una mujer piensa que su marido estará ausente una semana pero él regresa a los dos días y la sorprende con otro hombre. Su sorpresa es resultado
+ejemplo: una mujer piensa que su marido estará ausente una semana pero él regresa a los dos días y la sorprende cónotro hombre. Su sorpresa es resultado
 de haber anticipado que él regresaría en una fecha posterior y la sorpresa del
 marido es resultado de haber anticipado que la encontraría sola. 
 
 
 Por último se debe reconocer que el hecho anticipado puede ser placentero o no para el espectador. Si es placentero, el espectador estará ansioso por
 ver su ejecución. Quizás usted haya oído algo en el cine de su barrio después
-de que el héroe de la película ha declarado su interés en despedazar a su adversario. Su vecino puede haberlo tocado con el codo y dicho: "Amigo, esto va a
+de que el héroe de la película ha declarado su interés en despedazar a su adversario. Su vecino puede haberlo tocado cónel codo y dicho: "Amigo, esto va a
 estar muy bueno". El entusiasmo de su vecino se origina en la anticipación de
 la paliza que recibirá el villano. Apenas puede esperar que la narración llegue
 a esa escena. Si el héroe no hubiera hecho pública su intención su vecino
@@ -297,7 +297,7 @@ Nuevamente tenemos sorpresa. La sorpresa de una anticipación temida sólo
 puede ser el alivio.
 
 
-En un relato con intención y contraintención el espectador experimentará
+En un relato cónintención y contraintención el espectador experimentará
 anticipaciones contrastantes: la anticipación de las acciones del héroe y la anticipación de las acciones del villano. Las del primero pueden ser placenteras en
 tanto que las del segundo todo lo contrario. De modo que el espectador puede
 experimentar esperanza y temor en el mismo momento. Por ejemplo: el villano está a punto de torturar a la novia del héroe. Anticipamos sus acciones y

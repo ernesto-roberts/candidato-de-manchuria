@@ -55,7 +55,7 @@ Los slogans significan para ellos lo que siempre han significado en la práctica
 Pero segundo y aún más revelador, las ideologias y slogan capitalistas mayormente han perdido su capacidad de atraer a las masas. Esta no es para nada una opinión subjetiva y personal, puede ser claramente establecida por una observación impersonal.
 </p>
 
-Capítulo completo: <a href="https://ia801603.us.archive.org/11/items/in.ernet.dli.2015.17923/2015.17923.The-Managerial-Revolution.pdf#page=169" target="_blank" rel="noopener noreferrer">The Managerial Ideologies</a> <span class="pdf">[PDF]</span>
+Capítulo completo: <a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n179/mode/2up" target="_blank" rel="noopener noreferrer">The Managerial Ideologies</a> 
 
 ## .
 

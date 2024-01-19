@@ -126,7 +126,7 @@ ideal, abstracto, que sólo existe por él y para él.
 
 
 Se conoce a [Rudolf Arnheim](https://es.wikipedia.org/wiki/Rudolf_Arnheim) sobre todo como crítico de arte y psicólogo
-de la percepción. Conforme a las lecciones de la escuela guestáltica, a la que
+de la percepción. Conforme a las lecciones de la escuela [guestáltica](https://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt), a la que
 pertenece, Arnheim insiste en que nuestra visión no se produce por una
 estimulación de la retina, sino que es un fenómeno mental, que implica todo
 un campo de percepciones, de asociaciones, de memorización: en cierto
@@ -145,7 +145,7 @@ materialmente visible y no a la esfera (humana) de lo verdaderamente visual.
 
 
 
-Arnheim se acerca a la corriente guestáltica al asegurar que, en la
+Arnheim se acerca a la corriente [guestáltica](https://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt) al asegurar que, en la
 percepción de lo real, el espíritu humano no sólo da a lo real su sentido, sino
 incluso sus características físicas: color, forma, tamaño, contraste,
 luminosidad, etcétera; los objetos del mundo son de alguna manera producto
@@ -401,7 +401,7 @@ espectador como sede de reacciones afectivas a los estímulos fílmicos.
 
 ## El Espectador de Cine, «Hombre Imaginario»
 
-En 1956 [Edgar Morin](https://es.wikipedia.org/wiki/Edgar_Morin) publicó su ensayo [El Cine o el Hombre Imaginario](https://bcn.gob.ar/uploads/ElCineOElhombreImaginario.pdf) <span class="pdf">[PDF]</span>,
+En 1956 [Edgar Morin](https://es.wikipedia.org/wiki/Edgar_Morin) publicó su ensayo *[El Cine o el Hombre Imaginario](https://bcn.gob.ar/uploads/ElCineOElhombreImaginario.pdf) <span class="pdf">[PDF]</span>*,
 calificado entonces de antropología sociológica. En el prólogo de una edición
 reciente de este ensayo, el autor estima que «este libro es un aerolito»
 (prólogo datado en diciembre de 1977). En efecto, la importancia y la
@@ -541,7 +541,7 @@ película.
 
 No dejan de sorprendernos hoy la pertinencia y la actualidad de las tesis
 de Edgar Morin que prefiguran a la vez los trabajos de semio-psicoanálisis
-del cine tal como las desarrolla [Christian Metz](https://es.wikipedia.org/wiki/Christian_Metz) en [El Significante Inmaginario](https://semioticaderedes-carlon.com/wp-content/uploads/2018/04/4-Metz-Christian-El-significante-imaginario.pdf) <span class="pdf">[PDF]</span>
+del cine tal como las desarrolla [Christian Metz](https://es.wikipedia.org/wiki/Christian_Metz) en *[El Significante Inmaginario](https://semioticaderedes-carlon.com/wp-content/uploads/2018/04/4-Metz-Christian-El-significante-imaginario.pdf) <span class="pdf">[PDF]</span>*
 (1977), ni las investigaciones más recientes de un autor como Jean-Louis
 Schéfer en L’homme ordinaire du cinéma (1980), que trataremos más
 adelante.

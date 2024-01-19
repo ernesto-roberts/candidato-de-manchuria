@@ -488,6 +488,13 @@ html[data-theme='light'] h2 {
 }
 
 
+html[data-theme='light'] b.navbar__title.text--truncate {
+  color: #00060a;
+}
+
+
+
+
 html[data-theme='light'] .pdf {
   color: #094e4e;
   font-size: 60%;
@@ -498,12 +505,22 @@ html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main
   color: #f7f7f0;;
 }
 
-
-
 html[data-theme='light'] .table-of-contents  {
+  background-color: #f7f7f0;
+  opacity: .8;
 
-  background-color: #f7f7f0;;
-  opacity: .7;
+}
+
+html[data-theme='light'] .table-of-contents  a  {
+
+  color:rgb(59, 107, 36);
+
+}
+
+html[data-theme='light'] .table-of-contents  a:hover  {
+  
+  color: #00060a;
+
 }
 
 html[data-theme='light'] .cardContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module p {
@@ -512,8 +529,8 @@ html[data-theme='light'] .cardContainer_node_modules-\@docusaurus-theme-classic-
 
 
 html[data-theme='light'] article {
-  background-color:   #f7f7f0;;
-  color:  #00060a;  
+  background-color:   #f7f7f0;
+  color: #06263b;;    
   border-color: #003422;
   border-width: 4px;
   font-weight:400;
@@ -523,12 +540,24 @@ html[data-theme='light'] article {
 
 html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav {
   background-color: #f7f7f0;;
-  color:  #010f0a;  
-  opacity: .7;
+  color:  #00060a;  
+  opacity: .8;
   border: solid;
   border-color: black;
   padding: .4em 0 0 1.2em;
   font-family: 'Merriweather', serif;
+}
+
+html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav > ul > li > a {
+
+  color:rgb(59, 107, 36);
+
+}
+
+html[data-theme='light'] #__docusaurus > div.main-wrapper > div > div > aside > nav > ul > li > a:hover {
+
+  color: #00060a;
+  opacity: .8;
 }
 
 
@@ -541,7 +570,7 @@ html[data-theme='light'] #__docusaurus > div.announcementBar_node_modules-\@docu
 
 html[data-theme='light'] header {
   background-color: #f7f7f0;  
-  color:  #010f0a;    
+       
   opacity: .8;
   border: solid;
   border-color: #f7f7f0;
@@ -565,7 +594,7 @@ html[data-theme='light'] .fadeout {
 }
 
 html[data-theme='light'] #__docusaurus_skipToContent_fallback > div > div > main > article > header > h1 {
-  color: #010f0a;
+  color: #00060a;
 }
 
 
@@ -573,13 +602,11 @@ html[data-theme='light'] #__docusaurus > nav > div.navbar__inner {
   color: #010f0a;
 }
 
-html[data-theme='light'] blockquote {
-  color:  #2c2a2a;    
-}
+
 
 
 html[data-theme='light'] article  a {
-  color:#094e4e;
+  color:rgb(59, 107, 36);
   font-weight: 700;
 }
 
@@ -588,24 +615,34 @@ html[data-theme='light'] article a:hover {
 }
 
 html[data-theme='light'] .pagination-nav__link  {
-  color:#0e3b3b;
+  color:rgb(59, 107, 36);
   font-weight: 500;
+}
+
+
+html[data-theme='light'] aside .menu li {
+  background-color: #232f1e;
+  opacity: .8;  
 }
 
 
 html[data-theme='light'] .navbar {
     background-color: #fcfcf3;
-    color:  #003422;
+
     opacity: .8;
 }
 
+
+
 html[data-theme='light'] .navbar a {
-  color:  #003422;
+  color:  #00060a;
 }
 
 html[data-theme='light'] .navbar a:hover {
-  opacity: .9; 
+  opacity: .8; 
 }
+
+
 
 html[data-theme='light'] aside .menu li {
   background-color: #fcfcf3;
@@ -618,18 +655,18 @@ html[data-theme='light'] aside .menu  {
 }
 
 html[data-theme='light'] aside .menu .menu__link:hover {
-  color:  #094e4e;
+  color:  #00060a;
   opacity: .9;
 }
 
 html[data-theme='light'] aside .menu .menu__link--active {
-  color:  #094e4e;
-
+  color:  #00060a;
 }
 
 html[data-theme='light'] .pagination-nav__link {
   background-color: #fafae6;
   opacity: .7 ;
+  color:rgb(59, 107, 36);
 }
 
 html[data-theme='light'] div.col.col--3 {
@@ -643,29 +680,30 @@ html[data-theme='light'] div.col.col--3 a:hover {
 }
 
 
-html[data-theme='light'] h4 {
-  color: #003422;
+html[data-theme='light'] h4, h3, h2, h1 {
+  color: #00060a;
 }
 
 html[data-theme='light'] .menu__link {
-  color:#003414;
+  color:rgb(59, 107, 36);
 }
 
 html[data-theme='light'] .menu__link:hover {
-  color: #003414;
+  color: #00060a;
+  opacity: .9;
 }
 
 html[data-theme='light'] .menu__link--active {
-  color: #003414;
+  color: #00060a;
 }
 
 
 html[data-theme='light'] article.margin-bottom--xl:nth-child(1) > header:nth-child(1) > h2:nth-child(1) a {
-  color: #003422;
+  color: #00060a;
 }
 
 html[data-theme='light'] a.sidebarItemLinkActive_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
-  color: #961a81 !important;
+  color: #00060a !important;
 }
 
 

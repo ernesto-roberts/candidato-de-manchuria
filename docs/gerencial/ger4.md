@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Totalistarismo y Sociedad Gerencial
+# Totalitarismo y Sociedad Gerencial
 
 Aquellas naciones -Rusia, Alemania e Italia*- que han avanzado más en dirección a la estructura de la sociedad gerencial, en el presente son todas [dictaduras](https://es.wikipedia.org/wiki/Dictadura) <i>totalitarias</i>. Pese a que ha habido muchas dictaduras en el pasado, ninguna de ellas, en una cultura compleja, ha sido tan extrema en forma como el <a href="https://es.wikipedia.org/wiki/Totalitarismo" target="_blank" rel="noopener noreferrer">totalitarismo</a>.
 
@@ -51,7 +51,7 @@ De otra forma los burocratas no tendrían nada sobre lo que operar y se quedarí
 
 Los burocratas de hoy y mañana pueden pensar que ellos simplemente estan siguiendo un curso independiente, pero la verdad es que sus proyectos, sus guerras, sus demostraciones y sus manipulaciones del sentimiento de las masas requieren enormes recursos. En la práctica sólo pueden ser logrados con la colaboración con, y eventualmente subordinandose a aquellos que estan cordinando el proceso de produción, es decir los gerentes.
 
-Volveremos sobre esta pregunta en otras conexiones, pero debemos notar que Rusia, Italia y Alemania (ver los capitulos <a href="https://ia801603.us.archive.org/11/items/in.ernet.dli.2015.17923/2015.17923.The-Managerial-Revolution.pdf#page=200" target="_blank" rel="noopener noreferrer">The Russian Way</a> <span class="pdf">[PDF]</span> y <a href="https://ia801603.us.archive.org/11/items/in.ernet.dli.2015.17923/2015.17923.The-Managerial-Revolution.pdf#page=219" target="_blank" rel="noopener noreferrer">The German Way</a> <span class="pdf">[PDF]</span> del escrito original) ya proveen evidencia para esta opinión, aún cuando un elemento de especulación sin dudas persiste. En lo que respecta a el «trato preferencial en la distribución» (uno de los dos test decisivos de gobierno real) no hay dudas de que en Rusia, la nación que más ha avanzado hacia la estructura gerencial, son los gerentes -los directores de fábricas, trusts estatales y granjas colectivas- quienes como grupo estan obteniendo la porción más grande del ingreso nacional.
+Volveremos sobre esta pregunta en otras conexiones, pero debemos notar que Rusia, Italia y Alemania (ver los capitulos <a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n199/mode/2up" target="_blank" rel="noopener noreferrer">The Russian Way</a> y <a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n217/mode/2up" target="_blank" rel="noopener noreferrer">The German Way</a>  del escrito original) ya proveen evidencia para esta opinión, aún cuando un elemento de especulación sin dudas persiste. En lo que respecta a el «trato preferencial en la distribución» (uno de los dos test decisivos de gobierno real) no hay dudas de que en Rusia, la nación que más ha avanzado hacia la estructura gerencial, son los gerentes -los directores de fábricas, trusts estatales y granjas colectivas- quienes como grupo estan obteniendo la porción más grande del ingreso nacional.
 
 En Italia y Alemania aún hay capitalistas obteniendo una participación considerable, pero la tendencia continua firmemente hacia una disminución en su numero e importancia, mientras que la participación de los gerentes es grande y en ascenso. Como grupo posiblemente los gerentes ya esten recibiendo más que los restantes capitalistas.
 

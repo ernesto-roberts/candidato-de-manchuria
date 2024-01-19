@@ -29,10 +29,10 @@ factura para su cobro»"
 
 <hr />
 <p class="md_footnote_size">
-Texto Original: <a href="" target="_blank" rel="noopener noreferrer">An Underground History of
-American Education</a> de <a href="" target="_blank" rel="noopener noreferrer">J.T Gatto</a>
+Texto Original: <i>"An Underground History of
+American Education"</i> (2003) de <a href="" target="_blank" rel="noopener noreferrer">J.T Gatto</a>
 
-Traducción completa: <a href="https://iessecundaria.files.wordpress.com/2013/02/john-taylor-gatto-historia-secreta-del-sistema-educativo.pdf" target="_blank" rel="noopener noreferrer">Historia Secreta del Sistema Educativo</a> <span class="pdf">[PDF]</span>
+Traducción completa: "<i><a href="https://iessecundaria.files.wordpress.com/2013/02/john-taylor-gatto-historia-secreta-del-sistema-educativo.pdf" target="_blank" rel="noopener noreferrer">Historia Secreta del Sistema Educativo</a>" <span class="pdf">[PDF]</span></i>
 
 
 </p>
@@ -43,7 +43,7 @@ Traducción completa: <a href="https://iessecundaria.files.wordpress.com/2013/02
 La útopia particular que los creyentes estadounidenses eligieron traer a la vieja "Schoolhouse" Americana era Prusiana. La semilla del lo que se convertiria en el sistema educativo de ese pais en los alvores del siglo XX fue plantada en 1806 cuando ejercitos de voluntarios de Napoleon derrotaron sin apelaciones a los soldados profesionales de Prusia en la [Batalla de Jena](https://es.wikipedia.org/wiki/Batalla_de_Jena). Cuando tu negocio es contratar soldados y emplear la extorisión diplomatica bajo la amenaza de tu soldadezca, perder una batalla de esa forma es bastante serio, algo tenia que hacerse.
 
 
-La reacción más inmediata a Jena fue un discurso inmortal "[a la Nacion Alemana](https://es.wikipedia.org/wiki/Discursos_a_la_naci%C3%B3n_alemana)" por el filósofo [Johann Gottlieb Fichte](https://es.wikipedia.org/wiki/Johann_Gottlieb_Fichte) -un influyente documento de la historia moderna que lleva directamente a las primeras escuelas obligatorias de Occidente. Otros tiempos, otras tierras hablaron sobre la escolarización pero todas fallaron en materializar tal sistema. Sólo se lograban por breves intervalos y por propositos muy especificos. Esta vez seria diferente.
+La reacción más inmediata a Jena fue un discurso inmortal "[a la Nación Alemana](https://es.wikipedia.org/wiki/Discursos_a_la_naci%C3%B3n_alemana)" por el filósofo [Johann Gottlieb Fichte](https://es.wikipedia.org/wiki/Johann_Gottlieb_Fichte) -un influyente documento de la historia moderna que lleva directamente a las primeras escuelas obligatorias de Occidente. Otros tiempos, otras tierras hablaron sobre la escolarización pero todas fallaron en materializar tal sistema. Sólo se lograban por breves intervalos y por propositos muy especificos. Esta vez seria diferente.
 
 
 Sin ambiguedades Fitche le dijo a Prusia que se habia acabado la fiesta, los niños tendrian que ser disciplinados atravez de una nueva forma de acondicionamiento universal. Ya no podrían ser confiados a sus padres. Miren lo que Napoleon habia logrado al desterrar el sentimiento en favor del nacionalismo. Atravez de las escuelas todo el mundo aprenderia que "*el trabajo te hace libre*" y hacerlo para el Estado, aún entregando la vida a sus ordenes, era la mayor de las libertades. Aquí en la genialidad de la redefinición semantica yace el poder para nublar las mentes de los hombres, un poder más tarde empaquetado y vendido por los pioneros de las relaciones publicas [Edward Bernays](https://es.wikipedia.org/wiki/Edward_Bernays)* y Ivy Lee en las épocas del comienzo de la escolarización forzada.
@@ -92,7 +92,7 @@ Esta avance privado sobre la escolarización nacionalizada en EEUU estaba parcia
 Mucho de la historia, tal como había sido escrita hasta 1844, yace justo debajo de la florida prosa de [Horace Mann](https://es.wikipedia.org/wiki/Horace_Mann_Sr.) en su "Seventh Annual Report to the Boston School Committee". En una visita a Prusia el año anterior lo había impresionado mucho la facilidad con la que los calculos prusianos podian determinar con precisión cuantos pensadores, solucionadores de problemas y ayudantes el Estado necesitaria la decada entrante y como eso determinaba las categorias de entrenamiento requeridas para desarrollar los porcentajes de recursos humanos requeridos. Todo esto era mucho más justo para Mann que el repulsivo sistema episcopal inglés basado en la clase social. Prusia, pensó, era republicana en el deseable, viril sentido romano. Massachusetts debia tomar la misma dirección.
 
 
-## El largo alcance de los Caballeros Teutonicos
+## El largo alcance de los Caballeros Teutónicos
 
 
 En 1876, antes de dejar atras norteamerica para estudiar en Alemania, [William Welch](https://es.wikipedia.org/wiki/William_H._Welch), un joven y ambicioso Bostoniano, le escribió a su hermana:
@@ -121,7 +121,7 @@ En 1839, trece años antes de que la primera ley de escolarización obligatoria 
 
 
 
-La misma noción de la influencia Alemana en las aulas de instituciones estadounidenses se le ocurrio recientemente a un historiador de Georgetown, Dr [Carroll Quigley](https://es.wikipedia.org/wiki/Carroll_Quigley): su analisis de elementos de carácter alemán que fueron exportados a America puede encontrarse en su obra más conocida, [Tragedy and Hope: A History of the World in Our Time](https://archive.org/details/TragedyAndHope_201709) . Quigley rastreo lo que llamamos "la sed alemana por la comodidad del estilo de vida totalitario" hacia atras en el tiempo a las tribus germanas en la gran migración de hace quince siglos. Cuando la alemania pagana finalmente trasfirió su lealtad al aún mejor sistema totalitario de Diocletian en la Roma [Post-Constantino](https://es.wikipedia.org/wiki/Cambio_constantiniano), su sistema fue rápidamente hecho trizas. Según Quigley se negaron a aceptar esta perdida. Durante los proximos mil años, los alemanes hicieron todos los esfuerzos para reconstruir el sistema universal desde el [Sacro Imperio Romano](https://es.wikipedia.org/wiki/Sacro_Imperio_Romano_Germ%C3%A1nico) (962-1806) de [Carlomagno](https://es.wikipedia.org/wiki/Carlomagno) hasta despues de la [Batalla de Jena](https://es.wikipedia.org/wiki/Batalla_de_Jena) (1806). Durante ese intervalo de mil años, otras naciones de Occidente desarrollaron la libertad individual como el centro de la sociedad y su principal realidad filosófica. Pero mientras que alemania fue arrastrada por el mismo proceso nunca estuvo demasiado convencida de que la soberania individual fuese la forma correcta de organizar la sociedad.
+La misma noción de la influencia Alemana en las aulas de instituciones estadounidenses se le ocurrio recientemente a un historiador de Georgetown, Dr [Carroll Quigley](https://es.wikipedia.org/wiki/Carroll_Quigley): su analisis de elementos de carácter alemán que fueron exportados a America puede encontrarse en su obra más conocida, *[Tragedy and Hope: A History of the World in Our Time](https://archive.org/details/TragedyAndHope_201709)*. Quigley rastreo lo que llamamos "*la sed alemana por la comodidad del estilo de vida totalitario*" hacia atras en el tiempo a las tribus germanas en la gran migración de hace quince siglos. Cuando la alemania pagana finalmente trasfirió su lealtad al aún mejor sistema totalitario de Diocletian en la Roma [Post-Constantino](https://es.wikipedia.org/wiki/Cambio_constantiniano), su sistema fue rápidamente hecho trizas. Según Quigley se negaron a aceptar esta perdida. Durante los proximos mil años, los alemanes hicieron todos los esfuerzos para reconstruir el sistema universal desde el [Sacro Imperio Romano](https://es.wikipedia.org/wiki/Sacro_Imperio_Romano_Germ%C3%A1nico) (962-1806) de [Carlomagno](https://es.wikipedia.org/wiki/Carlomagno) hasta despues de la [Batalla de Jena](https://es.wikipedia.org/wiki/Batalla_de_Jena) (1806). Durante ese intervalo de mil años, otras naciones de Occidente desarrollaron la libertad individual como el centro de la sociedad y su principal realidad filosófica. Pero mientras que alemania fue arrastrada por el mismo proceso nunca estuvo demasiado convencida de que la soberania individual fuese la forma correcta de organizar la sociedad.
 
 
 
@@ -130,7 +130,7 @@ Los alemanes, según Quigley, querian verse libres de la necesidad de tomar desi
 
 
 
-Durante el siglo trece, la Orden de los [Caballero Teutonicos](https://es.wikipedia.org/wiki/Orden_Teut%C3%B3nica), se propuso crear un Estado propio. Despues de quince turbulentos años de combate, la Orden exitosamente cristianizo Prusia mediante el eficiente método de decapitar la población nativa completa y remplazarlos con alemanes. Para 1281 el dominio de la Orden sobre las tierras antesanteriormente de paganos eslavos estaba asegurada. 
+Durante el siglo trece, la Orden de los [Caballero Teutónicos](https://es.wikipedia.org/wiki/Orden_Teut%C3%B3nica), se propuso crear un Estado propio. Despues de quince turbulentos años de combate, la Orden exitosamente cristianizo Prusia mediante el eficiente método de decapitar la población nativa completa y remplazarlos con alemanes. Para 1281 el dominio de la Orden sobre las tierras antesanteriormente de paganos eslavos estaba asegurada. 
 
 
 
@@ -140,7 +140,7 @@ Entonces ocurrio algo de vital importancia para el futuro: El sistema administra
 Esta romantica imagen de iniciativa personal es, sin embargo, engañosa. En conflicto con con una burocracia militar altamente entrenada y especializada, fue pasada a seis generaciones de ciudadanos en tierras del oeste como inspiración y modelo. Ahora Prusia habia establecido una cabeza de playa asiatica en los confines norteños de Europa, una guiada por una inspiración diferente.
 
 
-Entre los siglos trece y catorce la Orden de los Caballeros Teutonicos evolucionó gradualmente en un servicio civil secular altamente eficiente. En 1525 el Rey Albert de Brandenberg declaró a Prusia un reino [secular](https://es.wikipedia.org/wiki/Secularizaci%C3%B3n). 
+Entre los siglos trece y catorce la Orden de los Caballeros Teutónicos evolucionó gradualmente en un servicio civil secular altamente eficiente. En 1525 el Rey Albert de Brandenberg declaró a Prusia un reino [secular](https://es.wikipedia.org/wiki/Secularizaci%C3%B3n). 
 
 
 Hacia el siglo dieciocho, bajo [Federico el Grande](https://es.wikipedia.org/wiki/Federico_II_el_Grande) (1712-1786), Prusia se convirtio en una de las principales potencias europeas a pesar de sus evidentes desventajas materiales. Desde 1740 en adelante, era temida en toda Europa por su enorme, bien equipado y mortifero ejercito permanente que contenia a un formulaico 1% de la población. 
@@ -166,7 +166,7 @@ Bajo Federico Guillermo II, sobrino y sucesor de Federico el Grande, desde fines
 ## El Movimiento de las Reformas Prusianas
 
 
-La desvastadora derrota a manos de Napoleon en la Batalla de Jena (1806), dio lugar a las [Reformas Prusianas](https://es.wikipedia.org/wiki/Reformas_prusianas), una transformación que remplazo el gobierno del Gabinete (con nombramientos del lider nacional) por el de servidores civiles y oficinas estatales permanentes. Preguntese a usted mismo que tipo de gobernanza responde mejor a la opinión pública y y se dara cuenta que capítulo más radical se estaba abriendose en los asuntos europeos.
+La desvastadora derrota a manos de Napoleon en la [Batalla de Jena](https://es.wikipedia.org/wiki/Batalla_de_Jena) (1806), dio lugar a las [Reformas Prusianas](https://es.wikipedia.org/wiki/Reformas_prusianas), una transformación que remplazo el gobierno del Gabinete (con nombramientos del lider nacional) por el de servidores civiles y oficinas estatales permanentes. Preguntese a usted mismo que tipo de gobernanza responde mejor a la opinión pública y y se dara cuenta que capítulo más radical se estaba abriendose en los asuntos europeos.
 
 
 El familiar sistema educativo de tres capas emergió en la Era Napoleonica, una privada y dos gubernamentales. En la cima el 0,5% de los estudiantes asistia a la [Akadamiensschulen](https://www.schuelerakademien.de/deutsche-schuelerakademie) donde como futuros creadores de políticas, aprendian a pensar estrategicamente, contextualmente como un todo, procesos complejos y conocimientos útiles. Estudiaban historia, escribian mucho, discutian a menudo, leian profundamente y dominaban las tareas de comando.
@@ -219,8 +219,7 @@ Juntos Owen y Wright fundaron el Workingman’s Party of Philadelphia que alcanz
 
 
 
-Texto completo: <a href="" target="_blank" rel="noopener noreferrer">An Underground History of
-American Education</a> de <a href="" target="_blank" rel="noopener noreferrer">J.T Gatto</a>
+Traducción completa: "<i><a href="https://iessecundaria.files.wordpress.com/2013/02/john-taylor-gatto-historia-secreta-del-sistema-educativo.pdf" target="_blank" rel="noopener noreferrer">Historia Secreta del Sistema Educativo</a>" <span class="pdf">[PDF]</span></i>
 
 
 

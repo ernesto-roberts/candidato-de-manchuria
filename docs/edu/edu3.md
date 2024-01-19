@@ -25,7 +25,7 @@ Los Taylors, una prominente familia de Germantown, Pensilvania habían llevado a
 La escolarización prusiana fue la ampliamente reconocida fundición donde esos milagros se hicieron posibles. El jubilo que se esparcio por Alemania remarcó una presumiblemente fatal diferencia entre sistemas políticos que disciplinaban con impiadosa eficiencia como el paraiso socialista Prusiano y aquellos dedicados al capricho y la lujuria como Francia. La lección no se le escapó al pequeño Fred.
 
 
-Cerca de la conclusión de sus <a href="https://archive.org/details/principlesofscie00taylrich/mode/2up" target="_blank" rel="noopener noreferrer">Principles of Scientific Management</a> (1911), publicado treinta y nueve años
+Cerca de la conclusión de sus *<a href="https://archive.org/details/principlesofscie00taylrich/mode/2up" target="_blank" rel="noopener noreferrer">Principles of Scientific Management</a>* (1911), publicado treinta y nueve años
 después, Taylor resumió la nueva disciplina de gestión como sigue:
 
 1. Un régimen de ciencia, no de regla general.
@@ -163,7 +163,7 @@ motivos educativos, sino como medio de apaciguar a sus críticos y así mantener
 ## El sistema de Ford y la comuna Kronstadt
 
 «*Un anti-intelectual, alguien que odia a los individuos*», es la manera en que [Richard Stites](﻿https://es.wikipedia.org/wiki/Richard_Stites) caracteriza a
-Taylor en [Revolutionary Dreams](http://chinhnghia.com/Stites_Richard_Revolutionary_Dreams_Utopian_Vision_and_Experimental_Life_in_the_Russian_Revolution.pdf) <span class="pdf">[PDF]</span>, su libro sobre los inicios utópicos de la Era Soviética. Dice Stites: 
+*Taylor en [Revolutionary Dreams](http://chinhnghia.com/Stites_Richard_Revolutionary_Dreams_Utopian_Vision_and_Experimental_Life_in_the_Russian_Revolution.pdf) <span class="pdf">[PDF]</span>*, su libro sobre los inicios utópicos de la Era Soviética. Dice Stites: 
 
 >«Su
 sistema es la base para prácticamente cualquier distopía retorcida de nuestro siglo, desde la muerte en la
@@ -184,7 +184,7 @@ clase gobernante.
 Cuando esta práctica maduró, las visiones del [socialismo fabiano](https://www.filosofia.org/ave/002/b098.htm) se añadieron a la mezcla. Gradualmente se
 llegó a ver una igualación socialista mediante prácticas desarrolladas en la Prusia de Bismarck como el más
 eficiente sistema de control para las masas, el 80 por ciento inferior de la población en los estados
-industriales avanzados. Por lo demás, un vigorizante sistema de competición de mercado laissez-faire
+industriales avanzados. Por lo demás, un vigorizante sistema de competición de mercado [laissez-faire](https://www.sdelsol.com/glosario/laissez-faire/#:~:text=El%20Laissez%20faire%20es%20una,econom%C3%ADa%20de%20mercado%20sin%20obst%C3%A1culos.)
 mantendría alerta al linaje reproductor avanzado. 
 
 
@@ -207,7 +207,7 @@ testigo de primera mano de la derrota de Francia en 1871. Su síntesis americana
 convirtieron en inspiración directa para Henry Ford y el «fordismo». Entre 1895 y 1915, Ford transformó
 radicalmente el proceso de fabricación, confiando en la gestión taylorizada y en una línea de montaje de
 producción masiva marcada por la precisión, continuidad, coordinación, velocidad y estandarización. Ford
-escribió dos extraordinarios ensayos en los años 20, [The Meaning of Time](https://www.youtube.com/watch?v=R21L2MUQvFc), y [Machinery, The New Messiah](https://es.scribd.com/document/357092636/Machinery-the-New-Messiah-Henry-Ford),
+escribió dos extraordinarios ensayos en los años 20, *[The Meaning of Time](https://www.youtube.com/watch?v=R21L2MUQvFc)*, y *[Machinery, The New Messiah](https://es.scribd.com/document/357092636/Machinery-the-New-Messiah-Henry-Ford)*,
 en que igualaba planificación, temporización, precisión y el resto del catálogo del management científico
 con el gran significado moral de la vida: 
 
@@ -336,7 +336,7 @@ utilitario del socialismo marxista.
 Cada una de estas posiciones fue con el tiempo salvajemente asaltada por
 el desarrollo del darwinismo académico. Después de Darwin, la utopía como lugar acogedor para los
 humanos sufre una muerte atroz. La última concepción de la utopía después de Darwin que no sea algún tipo
-de pesadilla infernal es [News from Nowhere](https://gutenberg.org/cache/epub/3261/pg3261-images.html) (1890) de William Morris. 
+de pesadilla infernal es *[News from Nowhere](https://gutenberg.org/cache/epub/3261/pg3261-images.html)* (1890) de William Morris. 
 
 Con sólo insignificantes reservas, el trust de cerebros fabianos no tuvo dificultad en emplear la fuerza para
 modelar a los individuos, grupos y organizaciones recalcitrantes. La fuerza, en ausencia de mandatos
@@ -454,8 +454,8 @@ inmediata ante todo el mundo, un Estado Global planificado, está apareciendo en
 [pero] [...] generaciones de propaganda y educación puede que tengan que venir antes»
 
 
-[Zbigniew Brzezinski](https://es.wikipedia.org/wiki/Zbigniew_Brzezinski) escribió su famoso y característico libro [Between Two Ages: America's Role in the
-Technetronic Era](https://archive.org/details/pdfy-z5FBdAnrFME2m1U4) en 1970, una obra que apesta a fabianismos: aversión al poder popular directo, implacable
+[Zbigniew Brzezinski](https://es.wikipedia.org/wiki/Zbigniew_Brzezinski) escribió su famoso y característico libro *[Between Two Ages: America's Role in the
+Technetronic Era](https://archive.org/details/pdfy-z5FBdAnrFME2m1U4)* en 1970, una obra que apesta a fabianismos: aversión al poder popular directo, implacable
 apoyo del derecho y deber de las naciones evolutivamente avanzadas para administrar las partes del mundo
 menos desarrolladas, repulsión ante las demandas populistas en favor de «autogobierno egoísta» (el
 homeschooling sería un ejemplo perfecto) y énfasis en el colectivismo. Brzezinski dijo en el libro: 

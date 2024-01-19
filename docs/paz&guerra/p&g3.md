@@ -6,7 +6,7 @@ sidebar_position: 3
 
 
 
-Las elecciones de estrategia dependen tanto de los objetivos de la guerra como de los medios disponibles. Acabamos de amalizar ejemplos extremos de guerra peleadas con vistas exclusivamente a la victoria militar, o con la intención de evitar una extensión del conflicto. Pero es dentro de estos dos extremos donde encontramos la mayoría de las gurras reales en las que la una estrategia es elegida en relación tanto a posibilidades militares como intenciones.
+Las elecciones de estrategia dependen tanto de los objetivos de la guerra como de los medios disponibles. Acabamos de analizar ejemplos extremos de guerra peleadas con vistas exclusivamente a la victoria militar, o con la intención de evitar una extensión del conflicto. Pero es dentro de estos dos extremos donde encontramos la mayoría de las gurras reales en las que la una estrategia es elegida en relación tanto a posibilidades militares como intenciones.
 
 
 
@@ -32,7 +32,7 @@ Un ejemplo más llamativo de esta dialectica de la victoria y la no-derrota es l
 
 
 
-El calculo era el siguiente: al [atacar sorpresivamente Pearl Harbour](https://es.wikipedia.org/wiki/Ataque_a_Pearl_Harbor), la flota japonesa ganaria varios meses de control sobre los mares extendiendose hasta australia, La infanteria y fuerza aerea conquistarian las Filipinas, Malasia e Indonesia y talvez puestos americanos en el Pacifico, como Guam. Controlando esta enorme area rica en materias primas, Japón estaría en posición de organizar y preparar su defensa.
+El calculo era el siguiente: al [atacar sorpresivamente Pearl Harbour](https://es.wikipedia.org/wiki/Ataque_a_Pearl_Harbor), la flota japonesa ganaria varios meses de control sobre los mares extendiendose hasta Australia, La infanteria y fuerza aerea conquistarian las Filipinas, Malasia e Indonesia y talvez puestos americanos en el Pacifico, como Guam. Controlando esta enorme area rica en materias primas, Japón estaría en posición de organizar y preparar su defensa.
 
 
 
@@ -50,7 +50,7 @@ El calculo no resulto menos falso en lo psicológico. Las democracias a menudo c
 
 
 
-En realidad no es que hubiese una estrategia mejor para Japón: ninguna podía prmeter razonablemente la victoria en un enfrentamiento tan evidentemente desigual.
+En realidad no es que hubiese una estrategia mejor para Japón: ninguna podía prometer razonablemente la victoria en un enfrentamiento tan evidentemente desigual.
 
 
 

@@ -157,7 +157,7 @@ Finalmente, dado que los beneficios esperados de los conceptos mecanicistas apli
 
 
 
-Ver capitulo completo en: <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/-/es/Andrei-Sorin/dp/0986938904">Software and Mind</a> (2014) de <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/-/es/stores/author/B00BG0UQIO/about">Andrei Sorin</a>
+Capitulo completo: <a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/SoftwareAndMind/page/n43/mode/2up">The Software Myth</a> (2014, <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/-/es/stores/author/B00BG0UQIO/about">Andrei Sorin</a>)
 
 
 

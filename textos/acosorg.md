@@ -199,17 +199,17 @@ Devolver artículos de la basura al hogar, soltar ratas o serpientes venenosas (
 
 Algunos videos:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bk0f1jEOEZ8?si=zkcTrDydG6geOvc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315px" src="https://www.youtube.com/embed/Bk0f1jEOEZ8?si=zkcTrDydG6geOvc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br />
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IWjzT2l5C34?si=33laNAbI0lpahSB7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%"  height="315px" src="https://www.youtube.com/embed/IWjzT2l5C34?si=33laNAbI0lpahSB7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br />
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0MesKbTEeHo?si=4OlTbMgX5P04QhZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%"  height="315px" src="https://www.youtube.com/embed/0MesKbTEeHo?si=4OlTbMgX5P04QhZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Gaslighting
 
@@ -272,7 +272,7 @@ El caso de Julia Davis se recoge en el documental "Top Priority: The Terror With
 <br />
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3LHC-C-ODO0?si=JQ9YSy1in0Du5w3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315px" src="https://www.youtube.com/embed/3LHC-C-ODO0?si=JQ9YSy1in0Du5w3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

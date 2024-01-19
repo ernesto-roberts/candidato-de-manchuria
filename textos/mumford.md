@@ -1,14 +1,14 @@
 ---
 date: 2023-12-17T10:00
 slug: mumford 
-title: Tècnica y Civilizaciòn
+title: Técnica y Civilización
 ---
 
 <hr />
 
-Traducciòn y resumen de "*Technics and Civilization*" (1934) <br />
+Traducción y resumen de "*Technics and Civilization*" (1934) <br />
 de <a href="" target="_blank" rel="noopener noreferrer">Lewis Mumford</a> (1878-1943) <br />
-Traducciòn completa: [Tècnica y Civilizaciòn](/) <span class="pdf">[PDF]</span>
+Traducción completa: [Técnica y Civilización](/) <span class="pdf">[PDF]</span>
 
 <hr />
 
@@ -29,8 +29,7 @@ y el nuevo concepto mecánico del tiempo surgió en parte de la rutina del monas
 
 
 
-Alfred Whithead//
-ha recalcado la importancia de la creencia escolástica en un universo ordenado por Dios como uno de
+[Alfred Whithead](https://es.wikipedia.org/wiki/Alfred_North_Whitehead) ha recalcado la importancia de la creencia [escolástica](https://es.wikipedia.org/wiki/Escol%C3%A1stica) en un universo ordenado por Dios como uno de
 los fundamentos de la física moderna: pero detrás de esta creencia estaba la presencia del orden en las
 instituciones de la Iglesia misma.
 
@@ -56,7 +55,7 @@ contabilizarlas y asegurar su repetición regular.
 
 
 Según una leyenda hoy desacreditada, el primer reloj mecánico moderno, que funcionaba con
-pesas, fue inventado por el monje Gerberto// que fue después el papa Silvestre II, casi al final del siglo X.
+pesas, fue inventado por el [monje Gerberto](https://es.wikipedia.org/wiki/Silvestre_II) que fue después el papa Silvestre II, casi al final del siglo X.
 Este reloj debió ser probablemente un reloj de agua, uno de esos legados del mundo antiguo conservado
 directamente desde tiempos de los romanos, como la rueda hidráulica misma, o llegado nuevamente a
 Occidente a través de los árabes. Pero la leyenda, como ocurre tan a menudo, es correcta en sus
@@ -71,8 +70,8 @@ XIII exigieron una rutina metódica, el hábito del orden mismo y de la regulaci
 del tiempo, se había convertido en una segunda naturaleza en el monasterio.
 
 
-Coulton// está de acuerdo
-con Sombart// en considerar a los Benedictinos//, la gran orden trabajadora, como quizá los fundadores
+Coulton está de acuerdo
+con [Werner Sombart](https://es.wikipedia.org/wiki/Werner_Sombart) en considerar a los [Benedictinos](https://es.wikipedia.org/wiki/Orden_de_San_Benito), la gran orden trabajadora, como quizá los fundadores
 originales del capitalismo moderno: su regla indudablemente le arrancó la maldición al trabajo y sus
 enérgicas empresas de ingeniería quizá le hayan robado incluso a la guerra algo de su hechizo. 
 
@@ -91,7 +90,7 @@ después daría buena cuenta? Quizá debamos aceptar la ironía de esta paradoja
 
 
 En todo caso, hacia el
-siglo XIII existen claros registros de relojes mecánicos, y hacia 1370 Heinrich von Wyck// había
+siglo XIII existen claros registros de relojes mecánicos, y hacia 1370 [Heinrich von Wyck](https://hoydia.com.ar/opinion/medir-el-tiempo/) había
 construido en París un reloj “moderno” bien proyectado. Entretanto habían aparecido los relojes de las
 torres, y estos relojes nuevos, si bien no tenían hasta el siglo XIV una esfera y una manecilla que
 transformaran un movimiento del tiempo en un movimiento en el espacio, de todas maneras sonaban las
@@ -134,7 +133,7 @@ contribuyeron al éxito de muy diferentes clases de máquinas. Los forjadores po
 miles de armaduras o de cañones de hierro, los carreteros podrían haber fabricado miles de ruedas
 hidráulicas o de burdos engranajes, sin haber inventado ninguno de los tipos especiales de movimiento
 perfeccionados en el reloj, y sin nada de la precisión de medida y finura de articulación que produjeron
-finalmente el exacto cronómetro del siglo XVIII.
+finalmente el [exacto cronómetro del siglo XVIII](/category/el-taller-y-el-cronometro-1978-benjamin-coriat).
 
 
 El reloj, además es una máquina productora de energía cuyo “producto” es segundos y minutos:
@@ -164,7 +163,7 @@ nacimiento, el crecimiento, el desarrollo, decadencia y muerte—, y el pasado q
 sigue presente en el futuro que aún ha de nacer.
 
 
-Alrededor de 1345, según Thorndike//, la división de las horas en sesenta minutos y de los minutos
+Alrededor de 1345, según [Edward Thorndike](https://es.wikipedia.org/wiki/Edward_Thorndike), la división de las horas en sesenta minutos y de los minutos
 en sesenta segundos se hizo corriente. Fue este marco abstracto del tiempo dividido el que se hizo cada
 vez más el punto de referencia tanto para la acción como para el pensamiento, y un esfuerzo para llegar
 a la precisión en este aspecto, la exploración astronómica del cielo concentró más aún la atención sobre
@@ -222,7 +221,7 @@ el empleo más extenso de los relojes.
 
 
 Al disociar el tiempo de las secuencias orgánicas, se hizo más
-fácil para los hombres del renacimiento satisfacer la fantasía de revivir el pasado clásico o los
+fácil para los hombres del <a href="https://es.wikipedia.org/wiki/Renacimiento" target="_blank" rel="noopener noreferrer">el Renacimiento</a> (1400-1600 aprox.) satisfacer la fantasía de revivir el pasado clásico o los
 esplendores de la antigua civilización de Roma. El culto de la historia, apareciendo primero en el ritual
 diario, se abstrajo finalmente como una disciplina especial. En el siglo XVII hicieron su aparición el
 periodismo y la literatura periódica; incluso en el vestir, siguiendo la guía de Venecia como centro de la
@@ -248,7 +247,7 @@ animismo, dichas disociaciones se habían realizado en verdad en el pasado: uno 
 importantes de este tipo fue el invento de la rueda. 
 
 Incluso en la civilización relativamente avanzada de
-los Asirios// se ven representaciones de grandes estatuas arrastradas sobre un trineo por el suelo.
+los [asirios](https://es.wikipedia.org/wiki/Asiria) (2025AC-609AC) se ven representaciones de grandes estatuas arrastradas sobre un trineo por el suelo.
 Indudablemente la acción de la rueda procedería de la observación de que rodar un tronco era más fácil
 que empujarlo: pero los árboles han existido desde un número incalculable de años y su tala se ha
 efectuado durante muchos millares, con toda probabilidad, antes de que algún inventor neolítico
@@ -334,15 +333,15 @@ ponía todo el acento en crear una actitud de humildad ante la voluntad de Dios 
 creado. 
 
 Si la fe subyacente de la Edad Media seguía siendo supersticiosa y animística, las doctrinas de
-los Escolásticos// eran de hecho antianimísticas: el quid de la cuestión era que el mundo de Dios no era
+[los Escolásticos](https://es.wikipedia.org/wiki/Escol%C3%A1stica) eran de hecho antianimísticas: el quid de la cuestión era que el mundo de Dios no era
 el del hombre, y que sólo la Iglesia podía formar un puente entre el hombre y el absoluto.
 
 
 El significado de esta división no se hizo aparente del todo hasta que los Escolásticos mismos
-cayeran en descrédito y sus herederos, como Descartes//, empezaran a aprovecharse de la antigua brecha,
+cayeran en descrédito y sus herederos, como [Rene Descartes](https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650), empezaran a aprovecharse de la antigua brecha,
 describiendo sobre base puramente mecánica todo el mundo de la naturaleza, dejando fuera sólo el
 campo específico de la Iglesia, el alma del hombre. En función de la creencia de la Iglesia en un mundo
-ordenado independiente, ha mostrado Whitehead en Science and the Modern World//, que la labor de la
+ordenado independiente, ha mostrado Whitehead en [Science and the Modern World](https://archive.org/details/in.ernet.dli.2015.17780), que la labor de la
 ciencia pudo continuar con tanta confianza.
 
 
@@ -378,8 +377,8 @@ el monasterio era, como el ejército, un mundo estrictamente masculino.
 Como el ejército, también
 aguzaba, disciplinaba y concentraba la voluntad de poder: una serie de líderes militares salieron de las
 órdenes religiosas, en tanto el jefe de la orden que ejemplificó los ideales de la contrarreforma empezó
-su vida como soldado. Uno de los primeros científicos experimentadores, Roger Bacon//, fue un monje;
-también lo fue Michal Stuifel//, quien en 1544 amplió el uso de los símbolos en las ecuaciones
+su vida como soldado. Uno de los primeros científicos experimentadores, [Roger Bacon](https://es.wikipedia.org/wiki/Roger_Bacon), fue un monje;
+también lo fue Michal Stuifel, quien en 1544 amplió el uso de los símbolos en las ecuaciones
 algebraicas; los monjes ocuparon un puesto elevado en la lista de la mecánica y de los inventores.
 
 
@@ -430,7 +429,7 @@ exposición del cuerpo, su uso, su celebración, ahí estaban.
 
 
 Mientras los baños públicos eran comunes en la Edad Media, contrariamente a la complacida
-superstición que se desarrolló después de que el renacimiento// los abandonara, los verdaderamente
+superstición que se desarrolló después de que el renacimiento los abandonara, los verdaderamente
 santos desdeñaban bañar el cuerpo, se martirizaban la piel con cilicios, se azotaban, volvían sus ojos
 con interés caritativo hacia los llagados y los leprosos y los deformes.
 
@@ -484,7 +483,7 @@ orgánicos más sutiles y complejos; en el siglo XVII estas preocupaciones irrum
 
 
 
-Descartes//, al analizar la fisiología del cuerpo humano, observa que su funcionamiento, aparte de la guía
+[Descartes](https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes), al analizar la fisiología del cuerpo humano, observa que su funcionamiento, aparte de la guía
 de la voluntad, no “*es en absoluto ajeno a quienes están familiarizados con la variedad de movimientos
 realizados por los diferentes autómatas, o máquinas móviles fabricadas por la industria humana, y con
 la ayuda de sólo unas pocas piezas, comparadas con la gran multitud de huesos, nervios, arterias, venas y otras partes que se encuentran en el cuerpo de todo animal. Dichas personas consideran este
@@ -510,7 +509,7 @@ La nueva burguesía en la oficina y en la tienda, redujo la vida a una
 rutina cuidadosa e ininterrumpida. Tanto por lo que se refiere al negocio como a las comidas y al
 placer; todo era medido cuidadosamente, era tan metódico como el contacto sexual del padre de
 Tristam Shandy, que coincidía, simbólicamente, con el dar cuerda mensual al reloj. Pagos
-cronometrados, contratos cronometrados, trabajo cronometrado, comidas cronometradas: a partir de
+[cronometrados](/category/el-taller-y-el-cronometro-1978-benjamin-coriat), contratos cronometrados, trabajo cronometrado, comidas cronometradas: a partir de
 este período nada estaba completamente libre del calendario o del reloj. 
 
 
@@ -526,7 +525,7 @@ niños con sus virtudes durante dos siglos como modelo por un número de sabios 
 hombre económico. 
 
 
-Robinson Crusoe// fue un cuento de lo más representativo no sólo porque era la obra
+[Robinson Crusoe](https://es.wikipedia.org/wiki/Robinson_Crusoe) (1719) fue un cuento de lo más representativo no sólo porque era la obra
 de uno de la nueva generación de escritores y de periodistas profesionales, sino también porque
 combinaban en el mismo escenario el elemento de la catástrofe y de la aventura con la necesidad de la
 invención. En el nuevo sistema económico cada hombre se preocupaba de sí mismo. Las virtudes
@@ -591,7 +590,7 @@ Otro factor en el cambio puede haber sido debido a un sentimiento de
 inferioridad intensificado; quizá esto surgió debido a la humillante disparidad entre las pretensiones
 ideales del hombre y sus verdaderas realizaciones, entre la caridad y la paz predicadas por la Iglesia y
 sus eternas guerras, enemistades y aversiones; entre la vida limpia predicada por los santos y la
-lujuriosa vivida por los papas del Renacimiento; entre la creencia en el cielo y el repulsivo desorden y
+lujuriosa vivida por los papas del <a href="https://es.wikipedia.org/wiki/Renacimiento" target="_blank" rel="noopener noreferrer">el Renacimiento</a> (1400-1600 aprox.); entre la creencia en el cielo y el repulsivo desorden y
 desastre de su existencia real. Fallando la redención por la gracia, la armonización de los deseos, las
 virtudes cristianas, el pueblo buscó, quizá, cancelar su sentido de inferioridad y superar su frustración
 buscando el poder.
@@ -610,7 +609,7 @@ cáscara rota del orden antiguo.
 La ruptura entre el sistema celestial y el terrenal se había hecho
 demasiado grave para ser pasada por alto y demasiado ancha para ser llenada: la vida humana tenía un
 destino fuera de aquella cáscara. La ciencia más tosca estaba más próxima a la verdad de la época que
-el escolasticismo más refinado: la máquina de vapor peor ingeniada o la hiladora más antigua eran más
+el [escolasticismo](https://es.wikipedia.org/wiki/Escol%C3%A1stica) más refinado: la máquina de vapor peor ingeniada o la hiladora más antigua eran más
 eficientes que la mejor reglamentación gremial, y la fábrica o el puente de hierro más defectuosos eran
 más prometedores para la arquitectura que las construcciones más magistrales de Wren y Adam. El
 primer metro de tela tejido por una máquina, la primera fundición de hierro puro tenían en potencia
@@ -671,11 +670,11 @@ del hombre como un martillo: la palabra alemana para el puño es die Faust y has
 minero se llama *ein Fäustel*.
 
 
-Entre todas las piedras el pedernal//, debido a su extensión en el norte de Europa y por su
+Entre todas las piedras el [pedernal](https://es.wikipedia.org/wiki/S%C3%ADlex), debido a su extensión en el norte de Europa y por su
 propiedad de romperse en pedazos de agudos filos, fue quizá la más importante en el desarrollo de los
 instrumentos. Con la ayuda de otras rocas, o de una piqueta hecha con cuerno de reno, el minero de
 pedernal sacaba su piedra, y con paciente esfuerzo le daba la forma propia para su uso: el martillo
-mismo había alcanzado su actual forma refinada hacia el último período neolítico//. 
+mismo había alcanzado su actual forma refinada hacia el último período [Neolítico](https://es.wikipedia.org/wiki/Neol%C3%ADtico) (6000 AC - 4000 AC). 
 
 
 
